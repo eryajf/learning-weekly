@@ -1,0 +1,10 @@
+- **项目说明**
+  - [![](https://notes.abelsu7.top/_media/help.svg)README](/README)
+- **学习周刊**
+  - [![](https://notes.abelsu7.top/_media/program.svg)开源项目](/learningweekly/project)
+  - [![](https://notes.abelsu7.top/_media/program.svg)优秀文章](/learningweekly/article)
+  - [![](https://notes.abelsu7.top/_media/program.svg)优秀博客](/learningweekly/blog)
+- **Links**
+  - [![](../images/zhihu.svg ':size=16')知乎](https://www.zhihu.com/people/er-ya-jiang-fan-63)
+  - [![](../images/gitee.ico ':size=16')Gitee](https://gitee.com/eryajf/)
+  - [![](https://notes.abelsu7.top/_media/github.svg ':size=16')Github](https://github.com/eryajf)

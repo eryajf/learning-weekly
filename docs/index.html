@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"> -->
+  <!-- Theme: Simple (latest v0.x.x) -->
+<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css"> -->
+<!-- Theme: Defaults -->
+<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-defaults.css"> -->
+<!-- Theme: Simple Dark -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+</head>
+
+<style>
+  /* .sidebar::-webkit-scrollbar {
+    -webkit-appearance: none;
+    width: 0px;
+    height: 8px
+  }
+  .sidebar::-webkit-scrollbar-thumb {
+    background-color: #b6b6b6;
+    border: 1px solid #fff;
+    border-radius: 10px
+  }
+  .sidebar::-webkit-scrollbar-track {
+    background-color: inherit
+  }
+  .sidebar:hover::-webkit-scrollbar-thumb {
+    background-color: #9d9d9d
+  }
+  .sidebar:hover::-webkit-scrollbar-track {
+    background: hsla(0, 0%, 53%, .1)
+  }
+  .sidebar {
+    -webkit-overflow-scrolling: touch
+  } */
+
+  .sidebar::-webkit-scrollbar {
+    -webkit-appearance: none;
+    width: 5px;
+    height: 5px;
+  }
+
+  .sidebar::-webkit-scrollbar-thumb {
+    /* background-color: #b6b6b6; */
+    background-color: transparent;
+    border: 0px solid transparent;
+    border-radius: 10px
+  }
+
+  .sidebar:hover::-webkit-scrollbar {
+    display: inline-block;
+  }
+
+  .sidebar:hover::-webkit-scrollbar-thumb {
+    background-color: #b6b6b6;
+    border: 0px solid #fff;
+  }
+
+  .sidebar:hover::-webkit-scrollbar-track {
+    background-color: inherit
+  }
+
+  .sidebar::-webkit-scrollbar-thumb:active {
+    background-color: #9d9d9d
+  }
+
+  .sidebar {
+    -webkit-overflow-scrolling: touch
+  }
+
+  body {
+    -webkit-overflow-scrolling: touch
+  }
+
+  ::-webkit-scrollbar {
+    -webkit-appearance: none;
+    width: 5px;
+    height: 5px
+  }
+
+  ::-webkit-scrollbar-track {
+    background-color: inherit
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background-color: #b6b6b6;
+    border: 0px solid #fff;
+    border-radius: 10px
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background-color: #9d9d9d
+  }
+
+  ::-webkit-scrollbar-thumb:active {
+    /* background-color: #0b87da */
+  }
+
+  @media screen and (max-width: 48em) { /* 760px */
+    .sidebar::-webkit-scrollbar {
+      display: none;
+      background-color: transparent;
+    }
+
+    code::-webkit-scrollbar {
+      /* display: none; */
+      background-color: transparent;
+    }
+  }
+</style>
+
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: 'eryajf-docsify',
+      repo: 'https://github.com/eryajf/eryajf-docsifys',
+      coverpage: true,
+      basePath: '/',
+      loadSidebar: true,
+      subMaxLevel: 3,
+      loadNavbar: true,
+      mergeNavbar: false,
+      search: {
+        maxAge: 3600000, // 过期时间，单位毫秒，默认一天
+        paths: 'auto',
+        placeholder: 'Search',
+        noData: 'No Results!',
+        depth: 4 // 搜索标题的最大程级, 1 - 6
+      },
+      themeable: {
+        responsiveTables: true // default
+      }
+    }
+  </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-themeable/dist/js/docsify-themeable.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-tabs/dist/docsify-tabs.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-bash.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-java.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-go.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-c.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-cpp.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-latex.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-sql.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-json.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-powershell.min.js"></script>
+</body>
+</html>
+
