@@ -132,6 +132,81 @@ markdown的语法在网上随便一百度就是一大堆，我也不特别介绍
 
    也就是文内跳转的功能，在其他地方看到过，但是还没有找到对应的表达方法，知道的小伙伴可以告知我一下。
 
+
+```mermaid
+graph TD
+
+User -->api(api)
+
+api --nginx--> gw-proxy(micro-gw-proxy)
+api --tcp--> common-gw(common-gw)
+api --nginx--> pay(pay)
+api --nginx--> im(im)
+ 
+gw-proxy --http-->micro-gw[micro-gw]
+ 
+micro-gw --rpc-->user-api[user-api]
+micro-gw --rpc-->sale-api[sale-api]
+micro-gw --rpc-->order-api[order-api]
+micro-gw --rpc-->dc-api[dc-api]
+micro-gw --rpc-->cron-api[cron-api]
+
+
+user-api-.rpc.->api-to-srv[api-to-srv]
+sale-api-.rpc.->api-to-srv[api-to-srv]
+order-api-.rpc.->api-to-srv[api-to-srv]
+dc-api-.rpc.->api-to-srv[api-to-srv]
+cron-api-.rpc.->api-to-srv[api-to-srv]
+
+api-to-srv -.rpc.-> dc-srv[dc-srv]
+api-to-srv -.rpc.-> cron-srv[cron-srv]
+api-to-srv -.rpc.-> friend-srv[friend-srv]
+api-to-srv -.rpc.-> bid-srv[bid-srv]
+api-to-srv -.rpc.-> order-srv[order-srv]
+api-to-srv -.rpc.-> sale-srv[sale-srv]
+api-to-srv -.rpc.-> user-srv[user-srv]
+ 
+user-srv --rpc-->pan[pan]
+sale-srv --rpc-->pan[pan]
+order-srv --rpc-->pan[pan]
+dc-srv --rpc-->pan[pan]
+cron-srv --rpc-->pan[pan]
+friend-srv --rpc-->pan[pan]
+bid-srv --rpc-->pan[pan]
+
+common-gw --rpc--> common-api[common-api]
+common-api--rpc--> pan[pan]
+
+im --> im-web-api[im-web-api]
+im --> im-websocket[im-websocket]
+
+pay --> pay-web-api[pay-web-api]
+pay --> coupon-web-api[coupon-web-api]
+
+click api "http://prom.wpt.la/grafana/d/PUMB_eFZz/api-serverjian-kong-da-pan?orgId=1"
+click gw-proxy "http://prom.wpt.la/grafana/d/Nk_YVBxZk/micro-gw-proxyzhuang-tai-hui-ji?orgId=1"
+click pay-web-api "http://prom.wpt.la/grafana/d/Wvc2X9aZz/pay-web-apizhuang-tai-hui-ji?orgId=1"
+click coupon-web-api "http://prom.wpt.la/grafana/d/NrbI5oCWz/coupon-web-apizhuang-tai-hui-ji?orgId=1"
+click micro-gw "http://prom.wpt.la/grafana/d/LpzXnRBZz/micro-service-gwzhuang-tai-hui-ji?orgId=1"
+click user-api "http://prom.wpt.la/grafana/d/wDwrM9JWz/micro-service-userapizhuang-tai-hui-ji?orgId=1"
+click user-srv "http://prom.wpt.la/grafana/d/pWTR4gBZz/micro-service-usersrvzhuang-tai-hui-ji?orgId=1"
+click sale-api "http://prom.wpt.la/grafana/d/7k5x7gBZz/micro-service-saleapizhuang-tai-hui-ji?orgId=1"
+click sale-srv "http://prom.wpt.la/grafana/d/ryubNafWz/micro-service-salesrvzhuang-tai-hui-ji?orgId=1"
+click order-api "http://prom.wpt.la/grafana/d/zhKeTaPZk/micro-service-orderapizhuang-tai-hui-ji?orgId=1"
+click order-srv "http://prom.wpt.la/grafana/d/Iz2XT-EZk/micro-service-ordersrvzhuang-tai-hui-ji?orgId=1"
+click dc-api "http://prom.wpt.la/grafana/d/Q038WYYZz/micro-service-dc-apizhuang-tai-hui-ji?orgId=1"
+click dc-srv "http://prom.wpt.la/grafana/d/xFUXWYYWz/micro-service-dc-srvzhuang-tai-hui-ji?orgId=1"
+click cron-api "http://prom.wpt.la/grafana/d/Q038WYYZz/micro-service-dc-apizhuang-tai-hui-ji?orgId=1"
+click cron-srv "http://prom.wpt.la/grafana/d/xFUXWYYWz/micro-service-dc-srvzhuang-tai-hui-ji?orgId=1"
+click friend-srv "http://prom.wpt.la/grafana/d/xYoRpEXWk/micro-service-friendsrvzhuang-tai-hui-ji?orgId=1"
+click bid-srv "http://prom.wpt.la/grafana/d/Y43lNaBZz/micro-service-bidsrvzhuang-tai-hui-ji?orgId=1"
+click common-api "http://prom.wpt.la/grafana/d/B8ylMRBWk/micro-common-apizhuang-tai-hui-ji?orgId=1"
+click common-gw "http://prom.wpt.la/grafana/d/hUUTnRfWk/micro-common-gwzhuang-tai-hui-ji?orgId=1"
+click im-web-api "http://prom.wpt.la/grafana/d/_PkqgpaWk/im-web-apizhuang-tai-hui-ji?orgId=1"
+click im-websocket "http://prom.wpt.la/grafana/d/yKXzipaZk/im-dsp-websocketzhuang-tai-hui-ji?orgId=1"
+click pan "http://prom.wpt.la/grafana/d/t_48_zfWz/pan-service-nodezhuang-tai-hui-ji?orgId=1"
+```
+
 ## 5，参考地址
 
 - http://t.cn/AiCYoAlx
