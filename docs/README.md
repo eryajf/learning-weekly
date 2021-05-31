@@ -13,5 +13,7 @@
 ## 插件
 
 [copy](https://github.com/jperasmus/docsify-copy-code)
-
+[字数统计](https://github.com/827652549/docsify-count)
+[上下文章跳转](https://github.com/imyelo/docsify-pagination)
+[评论插件](https://github.com/gitalk/gitalk)
 [docsify-tabs](https://github.com/jhildenbiddle/docsify-tabs)

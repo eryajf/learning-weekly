@@ -6,38 +6,17 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <!-- 默认主机 -->
   <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"> -->
+  <!-- 引用主题 -->
   <!-- Theme: Simple (latest v0.x.x) -->
-<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css"> -->
-<!-- Theme: Defaults -->
-<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-defaults.css"> -->
-<!-- Theme: Simple Dark -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css"> -->
+  <!-- Theme: Simple Dark -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+  
 </head>
 
 <style>
-  /* .sidebar::-webkit-scrollbar {
-    -webkit-appearance: none;
-    width: 0px;
-    height: 8px
-  }
-  .sidebar::-webkit-scrollbar-thumb {
-    background-color: #b6b6b6;
-    border: 1px solid #fff;
-    border-radius: 10px
-  }
-  .sidebar::-webkit-scrollbar-track {
-    background-color: inherit
-  }
-  .sidebar:hover::-webkit-scrollbar-thumb {
-    background-color: #9d9d9d
-  }
-  .sidebar:hover::-webkit-scrollbar-track {
-    background: hsla(0, 0%, 53%, .1)
-  }
-  .sidebar {
-    -webkit-overflow-scrolling: touch
-  } */
 
   .sidebar::-webkit-scrollbar {
     -webkit-appearance: none;
@@ -46,7 +25,6 @@
   }
 
   .sidebar::-webkit-scrollbar-thumb {
-    /* background-color: #b6b6b6; */
     background-color: transparent;
     border: 0px solid transparent;
     border-radius: 10px
@@ -97,10 +75,6 @@
     background-color: #9d9d9d
   }
 
-  /* ::-webkit-scrollbar-thumb:active { */
-    /* background-color: #0b87da */
-  /* } */
-
   @media screen and (max-width: 48em) { /* 760px */
     .sidebar::-webkit-scrollbar {
       display: none;
@@ -108,7 +82,6 @@
     }
 
     code::-webkit-scrollbar {
-      /* display: none; */
       background-color: transparent;
     }
   }
@@ -121,25 +94,40 @@
       name: 'eryajf-docsify',
       repo: 'https://github.com/eryajf/eryajf-docsify',
       coverpage: true,
-      basePath: '/eryajf-docsify/',
+      basePath: '/eryajf-docsify/', // github
+      // basePath: '/', // 本地
       loadSidebar: true,
-      subMaxLevel: 5,
+      subMaxLevel: 6, // default 0
       loadNavbar: true,
       mergeNavbar: false,
+      notFoundPage: true,
+      // formatUpdated: '{MM}/{DD} {HH}:{mm}',
+      // auto2top: true, //切换页面之后是否回到页面顶部
+      // hideSidebar: true,
+      // logo: 'https://ae01.alicdn.com/kf/HTB1oFMme79E3KVjSZFG76319XXap.png',
       search: {
         maxAge: 3600000, // 过期时间，单位毫秒，默认一天
         paths: 'auto',
         placeholder: 'Search',
         noData: 'No Results!',
-        depth: 4 // 搜索标题的最大程级, 1 - 6
+        depth: 6 // 搜索标题的最大程级, 1 - 6
       },
       themeable: {
         responsiveTables: true // default
+      },
+      count:{
+        countable:true,
+        fontsize:'0.9em',
+        color:'rgb(90,90,90)',
+        language:'chinese',
       }
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script> // emoji 表情
+  <script src="//unpkg.com/docsify-count/dist/countable.js"></script> // 字数统计
+
+  <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script> // 分页导航
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-themeable/dist/js/docsify-themeable.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
@@ -155,6 +143,24 @@
   <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-sql.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-json.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-powershell.min.js"></script>
+
+  <!-- 评论插件 -->
+  <!-- 评论插件 -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+<script>
+  const gitalk = new Gitalk({
+    clientID: '131ff82b6e2a3191e593',
+    clientSecret: '160d595628976f64faf8994a40bf7637e94550dc',
+    repo: 'https://github.com/eryajf/eryajf-docsify.git',
+    owner: 'eryajf',
+    admin: ['eryajf'],
+    // facebook-like distraction free mode
+    distractionFreeMode: false
+  })
+</script>
+
 </body>
 </html>
 
