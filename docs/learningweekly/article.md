@@ -94,3 +94,12 @@
 > - [万字总结，体系化带你全面认识 Linux 系统安全强化](https://mp.weixin.qq.com/s/r2uCYZt5aEYecXcwDvmeEQ)
 >   - 安全方面，内核优化等
 
+## 第22周-5月31–6月6
+
+> -  [GitHub与Gitee双向自动同步](https://www.bahuangshanren.tech/github%E4%B8%8Egitee%E5%8F%8C%E5%90%91%E8%87%AA%E5%8A%A8%E5%90%8C%E6%AD%A5/)
+> -  gitee没有自动同步功能，通过`Github Actions`我们可以实现这个需求
+
+----
+
+> - [Go 语言优秀资源整理，为项目落地加速](https://cs.leops.cn/#/)
+>   - 作者收集整理了一大批go语言项目，值得关注，[开源地址](https://github.com/shockerli/go-awesome)

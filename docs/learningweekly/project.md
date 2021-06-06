@@ -151,3 +151,57 @@
 > - 项目地址：[duf](https://github.com/muesli/duf)
 > - 项目说明：比du更好看的磁盘空间占用查看工具
 > - 相关文章：[README](https://github.com/muesli/duf/blob/master/README.md)
+
+## 第22周-5月31–6月6
+
+> - 项目地址：[zadig](https://github.com/koderover/zadig)
+> - 项目说明：Zadig 是 KodeRover 公司基于 Kubernetes 自主设计、研发的开源分布式持续交付 (Continues Delivery) 产品，为开发者提供云原生运行环境，支持开发者本地联调、微服务并行构建和部署、集成测试等。
+> - 相关文章：[官方文档](https://docs.koderover.com/zadig)
+
+----
+
+> - 项目地址：[github-markdown-toc](https://github.com/ekalinin/github-markdown-toc)
+> - 项目说明：给GitHub仓库中README生成TOC目录的工具，支持本地远程
+> - 相关文章：[README](https://github.com/ekalinin/github-markdown-toc/blob/master/README.md)
+
+----
+
+> - 项目地址：[gitalk](https://github.com/gitalk/gitalk)
+> - 项目说明：一个基于 GitHub Issue 和 Preact 开发的评论插件，可用于Hugo，docsify等静态博客。
+> - 相关文章：[中文文档](https://github.com/gitalk/gitalk/blob/master/readme-cn.md)，[在线示例](https://gitalk.github.io/)
+
+----
+
+> - 项目地址：[shields](https://github.com/badges/shields)
+> - 项目说明：markdown中自定义徽标
+> - 相关文章：[在线访问](https://shields.io/category/license)
+
+----
+
+> - 项目地址：[kubectl-debug](https://github.com/aylei/kubectl-debug)
+> - 项目说明：便捷地进行 Kubernetes 上的 Pod 排障诊断
+> - 相关文章：[中文说明](https://github.com/aylei/kubectl-debug/blob/master/docs/zh-cn.md)
+
+----
+
+> - 项目地址：[vuepress](https://github.com/vuejs/vuepress)
+> - 项目说明：以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作
+> - 相关文章：[中文官网](https://vuepress.vuejs.org/zh/)
+
+----
+
+> - 项目地址：[awesome-vuepress](https://github.com/vuepress/awesome-vuepress)
+> - 项目说明：如名
+> - 相关文章：
+
+----
+
+> - 项目地址：[vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing)
+> - 项目说明：一款设计非常优秀的vuepress博客主题
+> - 相关文章：[官方文档](https://doc.xugaoyi.com/)
+
+----
+
+> - 项目地址：[vuepress-theme-hope](https://github.com/vuepress-theme-hope/vuepress-theme-hope)
+> - 项目说明：又一款不错的vuepress博客主题
+> - 相关文章：[官方文档](https://vuepress-theme-hope.github.io/zh/)
