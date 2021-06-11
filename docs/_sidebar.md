@@ -2,15 +2,9 @@
   - [![](https://notes.abelsu7.top/_media/help.svg)README](/README)
 
 - **学习周刊**
-  - [![](https://notes.abelsu7.top/_media/program.svg)开源项目](/learningweekly/project)
-  - [![](https://notes.abelsu7.top/_media/program.svg)优秀文章](/learningweekly/article)
-  - [![](https://notes.abelsu7.top/_media/program.svg)优秀博客](/learningweekly/blog)
-  - [![](https://notes.abelsu7.top/_media/program.svg)测试](/learningweekly/test)
-
-- **编程世界**
-  - [![](https://notes.abelsu7.top/_media/program.svg)go语言](/code)
+  - [![](https://notes.abelsu7.top/_media/program.svg)2021年](/learningweekly/2021)
 
 - **Links**
-  - [![](../images/zhihu.svg ':size=16')知乎](https://www.zhihu.com/people/er-ya-jiang-fan-63)
-  - [![](../images/gitee.ico ':size=16')Gitee](https://gitee.com/eryajf/)
-  - [![](https://notes.abelsu7.top/_media/github.svg ':size=16')Github](https://github.com/eryajf)
+  - [![](http://www.eryajf.net/favicon.ico ':size=16')博客](/links/blog)
+  - [![](https://notes.abelsu7.top/_media/appstore.svg ':size=16')社区](/links/community)
+  - [![](https://notes.abelsu7.top/_media/opensource.svg ':size=16')友链](/links/friends)

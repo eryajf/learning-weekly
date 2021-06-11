@@ -69,13 +69,27 @@
   ::-webkit-scrollbar-thumb:hover {
     background-color: #9d9d9d
   }
-
+  /*滚动条样式 start*/
+  /* 滚动条宽度 */
+  ::-webkit-scrollbar{width:5px;}
+  /* 滚动条颜色 */
+  ::-webkit-scrollbar-thumb{
+    background: #33a9dc;
+    background-image: linear-gradient(#6ecd56, #33a9dc, #cb6196, #c16290);
+    border-radius: 2em;
+  }
+  /* tabls展示 */
+  :root {
+    --docsifytabs-border-color: #ededed;
+    --docsifytabs-tab-highlight-color: purple;
+  }
+  /* tabls展示 */
+    
   @media screen and (max-width: 48em) { /* 760px */
     .sidebar::-webkit-scrollbar {
       display: none;
       background-color: transparent;
     }
-
     code::-webkit-scrollbar {
       background-color: transparent;
     }
@@ -93,9 +107,10 @@
       // basePath: '/', // 本地
       loadSidebar: true,
       subMaxLevel: 6, // default 0
-      loadNavbar: true,
+      // loadNavbar: true,
       mergeNavbar: false,
       notFoundPage: true,
+      topMargin: 60,//调整top
       // auto2top: true, //切换页面之后是否回到页面顶部
       // 搜索相关配置
       search: {
@@ -128,15 +143,31 @@
         warning: {label: "Warnung"},
         attention: {label: "Achtung"}
       },
+      tabs: {
+        persist    : true,      // default
+        // sync       : true,      // default
+        theme      : 'classic', // default
+        tabComments: true,      // default
+        tabHeadings: true       // default
+      },
       // edit on github
       editLink: {
         text: 'Edit On GitHub',
         repo: 'https://github.com/eryajf/eryajf-docsify/edit/main/docs/',
         cssClass: 'docsify-edit-link m-0'
-      }
+      },
+      //添加页脚,如果需要的话
+      // footer: {
+      //   copy: '<div class = "over" >完结</div><br/><span>我能想到最浪漫的事，就是我喝咖啡你付钱~😆😏 ❤️ 打赏地址：<a href="https://wugenqiang.js.org/sponsor/" target="_blank">https://wugenqiang.js.org/sponsor/</a></span><iframe src="https://wugenqiang.js.org/sponsor/" style="overflow-x:hidden;overflow-y:hidden; min-height:240px; width:100%;"  frameborder="0" scrolling="no"></iframe><br/><span id="sitetime"></span><br/><span>Copyright &copy; 2019 - 至今</span>',
+      //   auth: ' <a href="https://wugenqiang.github.io/" target="_blank">🏷️ EnjoyToShare Blog</a> <span> 一个人可以走的很快，但一群人才能走的更远！</span>',
+      //   pre: '<hr/>',
+      //   style: 'text-align: left;',
+      // }
     }
   </script>
 
+  <!-- 添加页脚 -->
+  <!-- <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/docsify-footer-enh.min.js"></script> -->
   <!-- other script -->
   <script src="//unpkg.com/docsify-edit-link@^1"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
@@ -167,23 +198,14 @@
   <script>mermaid.initialize({ startOnLoad: true });</script>
   <!-- 自动给英文数字等添加空格 -->
   <script src="//cdn.jsdelivr.net/npm/docsify-pangu/lib/pangu.min.js"></script>
+  <!-- mouse click -->
+  <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/click_heart.js"></script>
   <!-- wikilink -->
   <script src="https://cdn.jsdelivr.net/npm/docsify-wikilink@1"></script>
+  <!-- 表格样式 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+
   <!-- 评论插件 -->
-  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
-  <script>
-    const gitalk = new Gitalk({
-      clientID: '131ff82b6e2a3191e593',
-      clientSecret: '160d595628976f64faf8994a40bf7637e94550dc',
-      repo: 'eryajf-docsify',
-      owner: 'eryajf',
-      admin: ['eryajf'],
-      distractionFreeMode: false
-    })
-  </script> -->
-<!-- 调整评论 -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
@@ -206,5 +228,19 @@
   <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/index.min.js" type="text/javascript"></script>
   <!-- 脚注扩展 -->
   <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
+  <!-- 回到顶部功能 -->
+  <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/jquery.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/jquery.goup.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function () {
+      $.goup({
+        trigger: 100,
+        bottomOffset: 52,
+        locationOffset: 25,
+        //title: 'TOP',
+        titleAsText: true
+      });
+    });
+  </script>
 </body>
 </html>

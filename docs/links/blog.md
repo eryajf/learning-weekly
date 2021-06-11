@@ -1,0 +1,3 @@
+- [![](http://www.eryajf.net/favicon.ico ':size=16')个人博客](http://eryajf.net)
+- [![](http://doc.eryajf.net/favicon.ico ':size=16')个人wiki](http://doc.eryajf.net)
+- [![](http://doc.eryajf.net/favicon.ico ':size=16')个人导航](http://nav.eryajf.net)
