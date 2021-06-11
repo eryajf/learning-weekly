@@ -1,4 +1,4 @@
-![logo](https://ae01.alicdn.com/kf/HTB1oFMme79E3KVjSZFG76319XXap.png ':size=100')
+![logo](./img/logo.png ':size=100')
 
 # eryajf-docsify
 
