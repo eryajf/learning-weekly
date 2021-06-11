@@ -4,7 +4,7 @@
 ?> <span id="busuanzi_container_site_uv"><img src="_media/visit.svg" data-origin="view.svg" alt data-no-zoom> 本站访客数 <span id="busuanzi_value_site_uv"><i class="fa fa-spinner fa-spin"></i></span> 人次</span><br><span id="busuanzi_container_page_pv"><img src="//notes.abelsu7.top/_media/view.svg" data-origin="view.svg" alt data-no-zoom> 本文阅读量 <span id="busuanzi_value_page_pv"><i class="fa fa-spinner fa-spin"></i></span> 次</span>
 
 > [!TIP]
-> An awesome project. by docsify!
+> An awesome project. by [docsify](https://docsify.js.org/#/)!
 
 ## 主题
 
@@ -26,3 +26,40 @@
 
 - [ETS blog](https://notebook.js.org/#/README)
 - [Coding-Notes](https://notes.abelsu7.top/#/)
+
+## 如何与我一起维护此项目
+
+- 本地安装docsify
+
+  ```
+  npm i docsify-cli -g
+  ```
+
+- fork项目之后将项目克隆到本地
+
+  ```
+  git clone https://github.com/eryajf/eryajf-docsify.git
+  ```
+
+- 修改本地path
+
+  ```
+  # 调整 docs/index.html 的basePath
+  		basePath: '/eryajf-docsify/', // github
+        // basePath: '/', // 本地
+  ```
+
+- 运行
+
+  ```
+  $ cd docs
+  $ docsify serve
+  ```
+
+  然后就可以访问了。
+
+- 注意：
+
+  - 涉及图片存放在img目录中
+  - 学习周刊标题风格要保持一致，同时子标题需要加粗，从而实现表格效果！
+
