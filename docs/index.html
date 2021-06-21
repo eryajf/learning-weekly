@@ -146,11 +146,44 @@
       },
       tabs: {
         persist    : true,      // default
-        sync       : false,      // default
+        // sync       : false,      // default
         theme      : 'classic', // default
         tabComments: true,      // default
         tabHeadings: true       // default
       },
+      // fix docsify pageload scroll
+      plugins: [
+        function (hook, vm) {
+          // console.log(hook);
+          // console.log(vm);
+          hook.ready(function () {
+            // true = show debug log
+            let flag = false
+            let TARGET_QUERY = 'id'
+            let SCROLL_DELAY = 3000 // in milisecond
+            let location = window.location
+            flag && console.log('custom scroll plugin called!')
+            let currentUrlWithoutHash = new URL(
+              location.origin + location.pathname +
+              location.search + location.hash.substring(1)
+            )
+            let urlQueryParam = currentUrlWithoutHash.searchParams
+            let isUrlHasIdQuery = urlQueryParam.has(TARGET_QUERY)
+            if (isUrlHasIdQuery) {
+              flag && console.log('url has id, will scroll to element')
+              let urlId = urlQueryParam.get(TARGET_QUERY)
+              // run delayed, to make sure everything loaded
+              setTimeout(function () {
+                  flag && console.log('will scroll now!')
+                  try {
+                      document.querySelector('#' + urlId)
+                          .scrollIntoView()
+                  } catch (e) { dd && console.log('custom scroll failed', e) }
+              }, SCROLL_DELAY);
+            }
+          })
+        }
+      ],
       // edit on github
       editLink: {
         text: 'Edit On GitHub',
