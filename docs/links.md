@@ -31,5 +31,9 @@
 其他一些周刊月刊平台
 
 * [熊猫的紫竹林](https://iofunc.cn/index.php/category/DS/)
+* [推酷编程狂人](https://www.tuicool.com/mags)
+* [阮一峰周刊](https://www.ruanyifeng.com/blog/weekly/)
+* [前端见闻周刊](https://github.com/Jamie-Yang/weekly)
+* [飞猪前端周刊](https://www.zhihu.com/column/fliggy)
 
 <!-- tabs:end -->
