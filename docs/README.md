@@ -27,6 +27,10 @@
 - [ETS blog](https://notebook.js.org/#/README)
 - [Coding-Notes](https://notes.abelsu7.top/#/)
 
+## 🌍访问地球
+
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5qc0gaizuzd&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=0" async="async"></script>
+
 ## 如何与我一起维护此项目
 
 - 本地安装docsify
