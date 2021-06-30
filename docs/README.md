@@ -42,14 +42,14 @@
 - fork项目之后将项目克隆到本地
 
   ```
-  git clone https://github.com/eryajf/eryajf-docsify.git
+  git clone https://github.com/eryajf/Learning-Weekly.git
   ```
 
 - 修改本地path
 
   ```
   # 调整 docs/index.html 的basePath
-  		basePath: '/eryajf-docsify/', // github
+  		basePath: '/Learning-Weekly/', // github
         // basePath: '/', // 本地
   ```
 

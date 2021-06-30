@@ -1,8 +1,8 @@
 ![logo](./img/logo.png ':size=100')
 
-# eryajf-docsify
+# Learning-Weekly
 
 > 💻学习📝记录🔗分享
 
-[源码](https://github.com/eryajf/eryajf-docsify)
+[源码](https://github.com/eryajf/Learning-Weekly)
 [浏览](README.md)
