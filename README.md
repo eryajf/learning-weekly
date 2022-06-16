@@ -1,12 +1,12 @@
 ## 学习周刊
 
-欢迎投稿，推荐或自荐项目/文章/博客，请提交 [issue](https://github.com/eryajf/Learning-Weekly/issues) 。
+欢迎投稿，推荐或自荐项目/文章/博客，请提交 [issue](https://github.com/eryajf/Learning-Weekly/issues/new/choose) 。
 
 这里记录我每周工作学习过程中遇到学到的优秀开源项目，优秀文章，以及优秀博客。有很多优秀的内容，都值得被铭记，值得被分享，值得被更多人学习，周刊想通过这里每周的记录分享，一方面强化自己对优秀内容的认识与学习，另一方面能够把优质内容统一汇总，以飨大众。
 
 周刊的内容会以运维技术和Golang为主，以及GitHub上优秀项目或经验。已经经过一次筛选过滤的内容，质量不会太差，在你空闲无事的时候，可以过来随便看看，必能有所收益。
 
-你也可以在我的[博客](https://wiki.eryajf.net/pages/11c668/) 查看汇总周刊。
+你也可以在我的 [博客](https://wiki.eryajf.net/pages/11c668/) 查看汇总周刊。
 
 ## 周刊列表
 
