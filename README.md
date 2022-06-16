@@ -10,6 +10,8 @@
 
 ## 周刊列表
 
+<div align="center">
+
 ### 2022年
 
 |   📝    |   📔    |   👨‍💻   |   💻    |
@@ -42,3 +44,5 @@
 | [第29期](https://github.com/eryajf/Learning-Weekly/blob/main/docs/01.2021%E5%B9%B4/29.%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A-%E6%80%BB%E7%AC%AC29%E6%9C%9F-2021%E5%B9%B4%E7%AC%AC46%E5%91%A8.md) | [第30期](https://github.com/eryajf/Learning-Weekly/blob/main/docs/01.2021%E5%B9%B4/30.%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A-%E6%80%BB%E7%AC%AC30%E6%9C%9F-2021%E5%B9%B4%E7%AC%AC47%E5%91%A8.md) | [第31期](https://github.com/eryajf/Learning-Weekly/blob/main/docs/01.2021%E5%B9%B4/31.%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A-%E6%80%BB%E7%AC%AC31%E6%9C%9F-2021%E5%B9%B4%E7%AC%AC48%E5%91%A8.md) | [第32期](https://github.com/eryajf/Learning-Weekly/blob/main/docs/01.2021%E5%B9%B4/32.%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A-%E6%80%BB%E7%AC%AC32%E6%9C%9F-2021%E5%B9%B4%E7%AC%AC49%E5%91%A8.md) |
 | [第33期](https://github.com/eryajf/Learning-Weekly/blob/main/docs/01.2021%E5%B9%B4/33.%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A-%E6%80%BB%E7%AC%AC33%E6%9C%9F-2021%E5%B9%B4%E7%AC%AC50%E5%91%A8.md) | [第34期](https://github.com/eryajf/Learning-Weekly/blob/main/docs/01.2021%E5%B9%B4/34.%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A-%E6%80%BB%E7%AC%AC34%E6%9C%9F-2021%E5%B9%B4%E7%AC%AC51%E5%91%A8.md) | [第35期](https://github.com/eryajf/Learning-Weekly/blob/main/docs/01.2021%E5%B9%B4/35.%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A-%E6%80%BB%E7%AC%AC35%E6%9C%9F-2021%E5%B9%B4%E7%AC%AC52%E5%91%A8.md) |                              🥳                               |
 
+
+</div>
