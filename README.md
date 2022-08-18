@@ -6,7 +6,7 @@
 
 周刊的内容会以运维技术和Golang为主，以及GitHub上优秀项目或经验。已经经过一次筛选过滤的内容，质量不会太差，在你空闲无事的时候，可以过来随便看看，必能有所收益。
 
-你也可以在我的 [博客](https://wiki.eryajf.net/pages/11c668/) 查看汇总周刊。
+你也可以在我的 [博客](https://wiki.eryajf.net/learning-weekly/) 查看汇总周刊。
 
 ## 周刊列表
 
@@ -24,7 +24,7 @@
 |[第52期](https://github.com/eryajf/Learning-Weekly/blob/main/docs/02.2022%E5%B9%B4/17.%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A-%E6%80%BB%E7%AC%AC52%E6%9C%9F-2022%E5%B9%B4%E7%AC%AC17%E5%91%A8.md) | [第53期](https://github.com/eryajf/Learning-Weekly/blob/main/docs/02.2022%E5%B9%B4/18.%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A-%E6%80%BB%E7%AC%AC53%E6%9C%9F-2022%E5%B9%B4%E7%AC%AC18%E5%91%A8.md) | [第54期](https://github.com/eryajf/Learning-Weekly/blob/main/docs/02.2022%E5%B9%B4/19.%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A-%E6%80%BB%E7%AC%AC54%E6%9C%9F-2022%E5%B9%B4%E7%AC%AC19%E5%91%A8.md) | [第55期](https://github.com/eryajf/Learning-Weekly/blob/main/docs/02.2022%E5%B9%B4/20.%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A-%E6%80%BB%E7%AC%AC55%E6%9C%9F-2022%E5%B9%B4%E7%AC%AC20%E5%91%A8.md) |
 |[第56期](https://github.com/eryajf/Learning-Weekly/blob/main/docs/02.2022%E5%B9%B4/21.%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A-%E6%80%BB%E7%AC%AC56%E6%9C%9F-2022%E5%B9%B4%E7%AC%AC21%E5%91%A8.md) | [第57期](https://github.com/eryajf/Learning-Weekly/blob/main/docs/02.2022%E5%B9%B4/22.%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A-%E6%80%BB%E7%AC%AC57%E6%9C%9F-2022%E5%B9%B4%E7%AC%AC22%E5%91%A8.md) | [第58期](https://github.com/eryajf/Learning-Weekly/blob/main/docs/02.2022%E5%B9%B4/23.%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A-%E6%80%BB%E7%AC%AC58%E6%9C%9F-2022%E5%B9%B4%E7%AC%AC23%E5%91%A8.md) | [第59期](https://github.com/eryajf/learning-weekly/blob/main/docs/02.2022%E5%B9%B4/24.%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A-%E6%80%BB%E7%AC%AC59%E6%9C%9F-2022%E5%B9%B4%E7%AC%AC24%E5%91%A8.md) |
 |[第60期](https://github.com/eryajf/learning-weekly/blob/main/docs/02.2022%E5%B9%B4/25.%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A-%E6%80%BB%E7%AC%AC60%E6%9C%9F-2022%E5%B9%B4%E7%AC%AC25%E5%91%A8.md) | [第61期](https://github.com/eryajf/learning-weekly/blob/main/docs/02.2022%E5%B9%B4/26.%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A-%E6%80%BB%E7%AC%AC61%E6%9C%9F-2022%E5%B9%B4%E7%AC%AC26%E5%91%A8.md) | [第62期](https://github.com/eryajf/learning-weekly/blob/main/docs/02.2022%E5%B9%B4/27.%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A-%E6%80%BB%E7%AC%AC62%E6%9C%9F-2022%E5%B9%B4%E7%AC%AC27%E5%91%A8.md) | [第63期](./docs/02.2022%E5%B9%B4/28.%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A-%E6%80%BB%E7%AC%AC63%E6%9C%9F-2022%E5%B9%B4%E7%AC%AC28%E5%91%A8.md) |
-|[第64期](./docs/02.2022%E5%B9%B4/29.%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A-%E6%80%BB%E7%AC%AC64%E6%9C%9F-2022%E5%B9%B4%E7%AC%AC29%E5%91%A8.md) | [第65期](./docs/02.2022%E5%B9%B4/30.%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A-%E6%80%BB%E7%AC%AC65%E6%9C%9F-2022%E5%B9%B4%E7%AC%AC30%E5%91%A8.md) | [第66期](./docs/02.2022%E5%B9%B4/31.%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A-%E6%80%BB%E7%AC%AC66%E6%9C%9F-2022%E5%B9%B4%E7%AC%AC31%E5%91%A8.md) | 第67期 |
+|[第64期](./docs/02.2022%E5%B9%B4/29.%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A-%E6%80%BB%E7%AC%AC64%E6%9C%9F-2022%E5%B9%B4%E7%AC%AC29%E5%91%A8.md) | [第65期](./docs/02.2022%E5%B9%B4/30.%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A-%E6%80%BB%E7%AC%AC65%E6%9C%9F-2022%E5%B9%B4%E7%AC%AC30%E5%91%A8.md) | [第66期](./docs/02.2022%E5%B9%B4/31.%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A-%E6%80%BB%E7%AC%AC66%E6%9C%9F-2022%E5%B9%B4%E7%AC%AC31%E5%91%A8.md) | [第67期](./docs/02.2022%E5%B9%B4/32.%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A-%E6%80%BB%E7%AC%AC67%E6%9C%9F-2022%E5%B9%B4%E7%AC%AC32%E5%91%A8.md) |
 |第68期 | 第69期 | 第70期 | 第71期 |
 |第72期 | 第73期 | 第74期 | 第75期 |
 |第76期 | 第77期 | 第78期 | 第79期 |
