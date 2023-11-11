@@ -8,6 +8,8 @@
 
 你也可以在我的 [博客](https://wiki.eryajf.net/learning-weekly/) 查看汇总周刊。
 
+🔥有不少人想单独从博客通过RSS订阅周刊的更新，现在它来了，你可以使用这个[🔗链接](https://wiki.eryajf.net/learning-weekly.xml)进行订阅。
+
 ## 周刊列表
 
 <div align="center">
