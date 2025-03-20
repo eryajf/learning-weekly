@@ -118,3 +118,7 @@ width="800"  height="3">
 ## 周刊缘起
 
 学习周刊的想法来自阮一峰老师的《科技爱好者周刊》：https://github.com/ruanyf/weekly
+
+## 最新动态
+
+20250320：主更新地： https://cnb.cool/eryajf/Learning-Weekly
