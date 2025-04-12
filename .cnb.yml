@@ -13,10 +13,10 @@ main:
           imports: https://cnb.cool/eryajf/build-env/-/blob/main/env.yaml
           image: tencentcom/git-set-credential:latest
           settings:
-            userName: ${USER_NAME}
-            userEmail: ${USER_EMAIL}
-            loginUserName: ${LOGIN_USER_NAME}
-            loginPassword: ${LOGIN_PASSWORD}
+            userName: ${CNB_TOKEN_USER_NAME}
+            userEmail: ${CNB_COMMITTER_EMAIL}
+            loginUserName: ${CNB_TOKEN_USER_NAME}
+            loginPassword: ${CNB_TOKEN}
 
         - name: commit
           image: tencentcom/git-commit:latest
