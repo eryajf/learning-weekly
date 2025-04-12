@@ -1,0 +1,1245 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>二丫讲梵-学习周刊</title>
+    <link>https://wiki.eryajf.net/learning-weekly/</link>
+    <description>这里记录我每周工作学习过程中遇到学到的优秀开源项目，优秀文章，以及优秀博客。有很多优秀的内容，都值得被铭记，值得被分享，值得被更多人学习，周刊想通过这里每周的记录分享，一方面强化自己对优秀内容的认识与学习，另一方面能够把优质内容统一汇总，以飨大众。&#xA;&#xA;&#x9;&#x9;周刊的内容会以运维技术和 Golang 为主，以及 GitHub 上优秀项目或经验。已经经过一次筛选过滤的内容，质量不会太差，在你空闲无事的时候，可以过来随便看看，必能有所收益。&#xA;&#xA;&#x9;&#x9;周刊维护在：https://github.com/eryajf/learning-weekly 欢迎投稿，推荐或自荐项目 /文章 /博客，请提交 issue 。</description>
+    <managingEditor>eryajf@163.com (eryajf)</managingEditor>
+    <pubDate>Sat, 12 Apr 2025 09:40:07 +0800</pubDate>
+    <item>
+      <title>学习周刊-总第1期-2021年第18周</title>
+      <link>https://wiki.eryajf.net/pages/11c668/</link>
+      <description></description>
+      <pubDate>Sat, 08 May 2021 20:50:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第2期-2021年第19周</title>
+      <link>https://wiki.eryajf.net/pages/b7b690/</link>
+      <description></description>
+      <pubDate>Sat, 15 May 2021 20:50:41 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第3期-2021年第20周</title>
+      <link>https://wiki.eryajf.net/pages/63bddd/</link>
+      <description></description>
+      <pubDate>Thu, 20 May 2021 20:50:51 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第4期-2021年第21周</title>
+      <link>https://wiki.eryajf.net/pages/1441fd/</link>
+      <description></description>
+      <pubDate>Sat, 29 May 2021 20:51:01 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第5期-2021年第22周</title>
+      <link>https://wiki.eryajf.net/pages/a7976d/</link>
+      <description></description>
+      <pubDate>Sat, 05 Jun 2021 20:51:13 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第6期-2021年第23周</title>
+      <link>https://wiki.eryajf.net/pages/8d96d6/</link>
+      <description></description>
+      <pubDate>Thu, 10 Jun 2021 20:51:24 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第7期-2021年第24周</title>
+      <link>https://wiki.eryajf.net/pages/39eeb9/</link>
+      <description></description>
+      <pubDate>Sat, 19 Jun 2021 21:36:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第8期-2021年第25周</title>
+      <link>https://wiki.eryajf.net/pages/626efb/</link>
+      <description></description>
+      <pubDate>Sat, 26 Jun 2021 21:36:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第9期-2021年第26周</title>
+      <link>https://wiki.eryajf.net/pages/c28202/</link>
+      <description></description>
+      <pubDate>Mon, 05 Jul 2021 23:45:36 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第10期-2021年第27周</title>
+      <link>https://wiki.eryajf.net/pages/c2820277/</link>
+      <description></description>
+      <pubDate>Tue, 13 Jul 2021 23:45:36 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第11期-2021年第28周</title>
+      <link>https://wiki.eryajf.net/pages/c2820287/</link>
+      <description></description>
+      <pubDate>Sun, 18 Jul 2021 23:45:36 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第12期-2021年第29周</title>
+      <link>https://wiki.eryajf.net/pages/c2820297/</link>
+      <description></description>
+      <pubDate>Sun, 25 Jul 2021 23:45:36 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第13期-2021年第30周</title>
+      <link>https://wiki.eryajf.net/pages/c2820307/</link>
+      <description></description>
+      <pubDate>Sat, 31 Jul 2021 23:45:36 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第14期-2021年第31周</title>
+      <link>https://wiki.eryajf.net/pages/c282030831/</link>
+      <description></description>
+      <pubDate>Sun, 08 Aug 2021 23:45:36 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第15期-2021年第32周</title>
+      <link>https://wiki.eryajf.net/pages/c28203081431/</link>
+      <description></description>
+      <pubDate>Sat, 14 Aug 2021 23:45:36 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第16期-2021年第33周</title>
+      <link>https://wiki.eryajf.net/pages/f114a2/</link>
+      <description></description>
+      <pubDate>Sat, 21 Aug 2021 23:12:36 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第17期-2021年第34周</title>
+      <link>https://wiki.eryajf.net/pages/6e1302/</link>
+      <description></description>
+      <pubDate>Sat, 28 Aug 2021 15:51:30 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第18期-2021年第35周</title>
+      <link>https://wiki.eryajf.net/pages/eaaea7/</link>
+      <description></description>
+      <pubDate>Sun, 05 Sep 2021 17:57:54 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第19期-2021年第36周</title>
+      <link>https://wiki.eryajf.net/pages/d65b74/</link>
+      <description></description>
+      <pubDate>Sat, 11 Sep 2021 17:20:51 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第20期-2021年第37周</title>
+      <link>https://wiki.eryajf.net/pages/76f8e3/</link>
+      <description></description>
+      <pubDate>Sun, 19 Sep 2021 08:44:54 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第21期-2021年第38周</title>
+      <link>https://wiki.eryajf.net/pages/ab2fd8/</link>
+      <description></description>
+      <pubDate>Sat, 25 Sep 2021 15:08:50 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第22期-2021年第39周</title>
+      <link>https://wiki.eryajf.net/pages/93437b/</link>
+      <description></description>
+      <pubDate>Fri, 01 Oct 2021 21:52:33 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第23期-2021年第40周</title>
+      <link>https://wiki.eryajf.net/pages/d2d5e7/</link>
+      <description></description>
+      <pubDate>Sun, 10 Oct 2021 14:27:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第24期-2021年第41周</title>
+      <link>https://wiki.eryajf.net/pages/0bb811/</link>
+      <description></description>
+      <pubDate>Sat, 16 Oct 2021 14:16:36 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第25期-2021年第42周</title>
+      <link>https://wiki.eryajf.net/pages/b1410a/</link>
+      <description></description>
+      <pubDate>Sat, 23 Oct 2021 21:05:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第26期-2021年第43周</title>
+      <link>https://wiki.eryajf.net/pages/28aa5b/</link>
+      <description></description>
+      <pubDate>Sun, 31 Oct 2021 09:08:38 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第27期-2021年第44周</title>
+      <link>https://wiki.eryajf.net/pages/99b9f0/</link>
+      <description></description>
+      <pubDate>Sun, 07 Nov 2021 09:57:06 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第28期-2021年第45周</title>
+      <link>https://wiki.eryajf.net/pages/e89d1e/</link>
+      <description></description>
+      <pubDate>Sun, 14 Nov 2021 17:12:16 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第29期-2021年第46周</title>
+      <link>https://wiki.eryajf.net/pages/84d3b3/</link>
+      <description></description>
+      <pubDate>Sat, 20 Nov 2021 09:42:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第30期-2021年第47周</title>
+      <link>https://wiki.eryajf.net/pages/de93ec/</link>
+      <description></description>
+      <pubDate>Sat, 27 Nov 2021 15:38:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第31期-2021年第48周</title>
+      <link>https://wiki.eryajf.net/pages/26a46c/</link>
+      <description></description>
+      <pubDate>Sat, 04 Dec 2021 12:25:15 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第32期-2021年第49周</title>
+      <link>https://wiki.eryajf.net/pages/741945/</link>
+      <description></description>
+      <pubDate>Sat, 11 Dec 2021 16:17:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第33期-2021年第50周</title>
+      <link>https://wiki.eryajf.net/pages/34c25d/</link>
+      <description></description>
+      <pubDate>Sat, 18 Dec 2021 16:24:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第34期-2021年第51周</title>
+      <link>https://wiki.eryajf.net/pages/8b1463/</link>
+      <description></description>
+      <pubDate>Sat, 25 Dec 2021 15:29:45 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第35期-2021年第52周</title>
+      <link>https://wiki.eryajf.net/pages/15fc59/</link>
+      <description></description>
+      <pubDate>Sat, 01 Jan 2022 13:50:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第36期-2022年第01周</title>
+      <link>https://wiki.eryajf.net/pages/aa3e00/</link>
+      <description></description>
+      <pubDate>Fri, 07 Jan 2022 22:08:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第37期-2022年第02周</title>
+      <link>https://wiki.eryajf.net/pages/cbecfd/</link>
+      <description></description>
+      <pubDate>Sat, 15 Jan 2022 13:47:04 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第38期-2022年第03周</title>
+      <link>https://wiki.eryajf.net/pages/1d2aab/</link>
+      <description></description>
+      <pubDate>Fri, 21 Jan 2022 21:43:40 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第39期-2022年第04周</title>
+      <link>https://wiki.eryajf.net/pages/478f83/</link>
+      <description></description>
+      <pubDate>Sun, 30 Jan 2022 16:16:38 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第40期-2022年第05周</title>
+      <link>https://wiki.eryajf.net/pages/909492/</link>
+      <description></description>
+      <pubDate>Sat, 12 Feb 2022 00:08:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第41期-2022年第06周</title>
+      <link>https://wiki.eryajf.net/pages/ced061/</link>
+      <description></description>
+      <pubDate>Sat, 19 Feb 2022 15:38:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第42期-2022年第07周</title>
+      <link>https://wiki.eryajf.net/pages/fa9a0a/</link>
+      <description></description>
+      <pubDate>Sat, 26 Feb 2022 13:41:01 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第43期-2022年第08周</title>
+      <link>https://wiki.eryajf.net/pages/b47c65/</link>
+      <description></description>
+      <pubDate>Sat, 05 Mar 2022 13:21:22 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第44期-2022年第09周</title>
+      <link>https://wiki.eryajf.net/pages/c3ee7b/</link>
+      <description>学习周刊-2022年第09周</description>
+      <pubDate>Sat, 12 Mar 2022 08:26:46 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第45期-2022年第10周</title>
+      <link>https://wiki.eryajf.net/pages/02cfc7/</link>
+      <description>学习周刊-2022年第10周</description>
+      <pubDate>Sat, 19 Mar 2022 17:53:04 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第46期-2022年第11周</title>
+      <link>https://wiki.eryajf.net/pages/ae6b3c/</link>
+      <description>学习周刊-总第46期-2022年第11周</description>
+      <pubDate>Fri, 25 Mar 2022 21:28:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第47期-2022年第12周</title>
+      <link>https://wiki.eryajf.net/pages/713f83/</link>
+      <description>学习周刊-总第47期-2022年第12周</description>
+      <pubDate>Sun, 03 Apr 2022 08:54:17 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第48期-2022年第13周</title>
+      <link>https://wiki.eryajf.net/pages/5463a4/</link>
+      <description>学习周刊-总第48期-2022年第13周</description>
+      <pubDate>Sat, 09 Apr 2022 08:11:16 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第49期-2022年第14周</title>
+      <link>https://wiki.eryajf.net/pages/0e9bb7/</link>
+      <description>学习周刊-总第49期-2022年第14周</description>
+      <pubDate>Sun, 17 Apr 2022 15:29:35 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第50期-2022年第15周</title>
+      <link>https://wiki.eryajf.net/pages/4c8490/</link>
+      <description>学习周刊-总第50期-2022年第15周</description>
+      <pubDate>Sat, 23 Apr 2022 22:12:15 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第51期-2022年第16周</title>
+      <link>https://wiki.eryajf.net/pages/4d2fe6/</link>
+      <description>学习周刊-总第51期-2022年第16周</description>
+      <pubDate>Sat, 30 Apr 2022 08:56:13 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第52期-2022年第17周</title>
+      <link>https://wiki.eryajf.net/pages/c111b6/</link>
+      <description>学习周刊-总第52期-2022年第17周</description>
+      <pubDate>Sat, 07 May 2022 20:38:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第53期-2022年第18周</title>
+      <link>https://wiki.eryajf.net/pages/fc658e/</link>
+      <description>学习周刊-总第53期-2022年第18周</description>
+      <pubDate>Sat, 14 May 2022 23:12:02 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第54期-2022年第19周</title>
+      <link>https://wiki.eryajf.net/pages/75bb76/</link>
+      <description>学习周刊-总第54期-2022年第19周</description>
+      <pubDate>Sat, 21 May 2022 14:52:29 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第55期-2022年第20周</title>
+      <link>https://wiki.eryajf.net/pages/fe7652/</link>
+      <description>学习周刊-总第55期-2022年第20周</description>
+      <pubDate>Sat, 28 May 2022 18:03:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第56期-2022年第21周</title>
+      <link>https://wiki.eryajf.net/pages/77b80b/</link>
+      <description>学习周刊-总第56期-2022年第21周</description>
+      <pubDate>Sat, 04 Jun 2022 16:41:13 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第57期-2022年第22周</title>
+      <link>https://wiki.eryajf.net/pages/af0834/</link>
+      <description>学习周刊-总第57期-2022年第22周</description>
+      <pubDate>Sat, 11 Jun 2022 09:12:21 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第58期-2022年第23周</title>
+      <link>https://wiki.eryajf.net/pages/62a9c7/</link>
+      <description>学习周刊-总第58期-2022年第23周</description>
+      <pubDate>Fri, 17 Jun 2022 21:11:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第59期-2022年第24周</title>
+      <link>https://wiki.eryajf.net/pages/b0bdd0/</link>
+      <description>学习周刊-总第59期-2022年第24周</description>
+      <pubDate>Fri, 24 Jun 2022 15:52:01 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第60期-2022年第25周</title>
+      <link>https://wiki.eryajf.net/pages/bff449/</link>
+      <description>学习周刊-总第60期-2022年第25周</description>
+      <pubDate>Sat, 02 Jul 2022 11:07:05 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第61期-2022年第26周</title>
+      <link>https://wiki.eryajf.net/pages/703307/</link>
+      <description></description>
+      <pubDate>Sat, 09 Jul 2022 14:45:59 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第62期-2022年第27周</title>
+      <link>https://wiki.eryajf.net/pages/4a06ab/</link>
+      <description>学习周刊-总第62期-2022年第27周</description>
+      <pubDate>Sat, 16 Jul 2022 14:25:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第63期-2022年第28周</title>
+      <link>https://wiki.eryajf.net/pages/d2ea2c/</link>
+      <description>学习周刊-总第63期-2022年第28周</description>
+      <pubDate>Sat, 23 Jul 2022 10:32:59 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第64期-2022年第29周</title>
+      <link>https://wiki.eryajf.net/pages/6e74fb/</link>
+      <description>学习周刊-总第64期-2022年第29周</description>
+      <pubDate>Fri, 29 Jul 2022 07:49:35 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第65期-2022年第30周</title>
+      <link>https://wiki.eryajf.net/pages/ac9758/</link>
+      <description>学习周刊-总第65期-2022年第30周</description>
+      <pubDate>Fri, 05 Aug 2022 07:42:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第66期-2022年第31周</title>
+      <link>https://wiki.eryajf.net/pages/66c212/</link>
+      <description>学习周刊-总第66期-2022年第31周</description>
+      <pubDate>Fri, 12 Aug 2022 08:42:41 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第67期-2022年第32周</title>
+      <link>https://wiki.eryajf.net/pages/c5dd7c/</link>
+      <description>学习周刊-总第67期-2022年第32周,几个Redis管理平台与B站加强脚本</description>
+      <pubDate>Fri, 19 Aug 2022 07:10:11 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第68期-2022年第33周</title>
+      <link>https://wiki.eryajf.net/pages/73eb3e/</link>
+      <description>学习周刊-总第 68 期-程序员如何优雅地挣零花钱</description>
+      <pubDate>Fri, 26 Aug 2022 09:02:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第69期-2022年第34周</title>
+      <link>https://wiki.eryajf.net/pages/30b309/</link>
+      <description>学习周刊-总第69期-2021年个人博主们的年终总结</description>
+      <pubDate>Fri, 02 Sep 2022 08:41:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第70期-2022年第35周</title>
+      <link>https://wiki.eryajf.net/pages/d3ed2b/</link>
+      <description>学习周刊-总第70期-简易的堡垒机与国内效能平台实践</description>
+      <pubDate>Fri, 09 Sep 2022 08:47:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第71期-2022年第36周</title>
+      <link>https://wiki.eryajf.net/pages/502079/</link>
+      <description>学习周刊-总第71期-一些国内的公司在服务网格方面的实践</description>
+      <pubDate>Fri, 16 Sep 2022 09:06:29 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第72期-2022年第37周</title>
+      <link>https://wiki.eryajf.net/pages/430bd1/</link>
+      <description>学习周刊-总第72期-有些事，不能忘</description>
+      <pubDate>Fri, 23 Sep 2022 08:50:33 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第73期-2022年第38周</title>
+      <link>https://wiki.eryajf.net/pages/3d89ea/</link>
+      <description></description>
+      <pubDate>Fri, 30 Sep 2022 08:38:21 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第74期-2022年第39周</title>
+      <link>https://wiki.eryajf.net/pages/cc327d/</link>
+      <description>学习周刊-总第74期-一个go语言输出着色包</description>
+      <pubDate>Sat, 08 Oct 2022 09:28:26 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第75期-2022年第40周</title>
+      <link>https://wiki.eryajf.net/pages/34698c/</link>
+      <description>学习周刊-总第75期-一个开源的SCRM</description>
+      <pubDate>Fri, 14 Oct 2022 10:20:30 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第76期-2022年第41周</title>
+      <link>https://wiki.eryajf.net/pages/137fb1/</link>
+      <description>学习周刊-总第76期-Mac电脑中所有软件的icon合集</description>
+      <pubDate>Fri, 21 Oct 2022 08:16:37 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第77期-2022年第42周</title>
+      <link>https://wiki.eryajf.net/pages/dc502c/</link>
+      <description>学习周刊-总第77期-Vue3右键菜单组件和数据库备份管理平台</description>
+      <pubDate>Sat, 29 Oct 2022 09:57:37 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第78期-2022年第43周</title>
+      <link>https://wiki.eryajf.net/pages/b0b61c/</link>
+      <description>学习周刊-总第78期-k8s管理平台与可视化正则</description>
+      <pubDate>Sat, 05 Nov 2022 10:51:02 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第79期-2022年第44周</title>
+      <link>https://wiki.eryajf.net/pages/43ee57/</link>
+      <description></description>
+      <pubDate>Fri, 11 Nov 2022 09:12:17 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第80期-2022年第45周</title>
+      <link>https://wiki.eryajf.net/pages/b442a6/</link>
+      <description>学习周刊-总第80期-两个前端代码生成项目与一个go语言时间库</description>
+      <pubDate>Fri, 18 Nov 2022 09:07:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第81期-2022年第46周</title>
+      <link>https://wiki.eryajf.net/pages/2ef415/</link>
+      <description>学习周刊-总第81期-Mac启用clash之后本地hosts失效的解决办法</description>
+      <pubDate>Fri, 25 Nov 2022 09:16:51 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第82期-2022年第47周</title>
+      <link>https://wiki.eryajf.net/pages/273843/</link>
+      <description></description>
+      <pubDate>Fri, 02 Dec 2022 09:12:33 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第83期-2022年第48周</title>
+      <link>https://wiki.eryajf.net/pages/0c1a1b/</link>
+      <description>学习周刊-总第83期-几个chatGPT相关的项目与两个短链项目</description>
+      <pubDate>Fri, 09 Dec 2022 17:41:46 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第84期-2022年第49周</title>
+      <link>https://wiki.eryajf.net/pages/355e5b/</link>
+      <description>学习周刊-总第84期-关于手机号的正则校验应该用严格校验，还是宽松校验呢</description>
+      <pubDate>Fri, 16 Dec 2022 18:16:30 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第85期-2022年第50周</title>
+      <link>https://wiki.eryajf.net/pages/a11db4/</link>
+      <description>学习周刊-总第85期-go语言进程管理工具</description>
+      <pubDate>Fri, 23 Dec 2022 20:44:39 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第86期-2022年第51周</title>
+      <link>https://wiki.eryajf.net/pages/f86f4e/</link>
+      <description>学习周刊-总第86期-简洁易用的行为式验证码Go库</description>
+      <pubDate>Thu, 29 Dec 2022 15:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第87期-2022年第52周</title>
+      <link>https://wiki.eryajf.net/pages/ba509d/</link>
+      <description>学习周刊-总第87期-一个能够ssh到action容器的debug方式</description>
+      <pubDate>Mon, 02 Jan 2023 11:13:06 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第88期-2023年第01周</title>
+      <link>https://wiki.eryajf.net/pages/1e5ab8/</link>
+      <description></description>
+      <pubDate>Thu, 05 Jan 2023 20:53:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第89期-2023年第02周</title>
+      <link>https://wiki.eryajf.net/pages/0401bb/</link>
+      <description>学习周刊-总第89期-前端npm包投毒事件</description>
+      <pubDate>Fri, 13 Jan 2023 14:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第90期-2023年第03周</title>
+      <link>https://wiki.eryajf.net/pages/0af1da/</link>
+      <description>学习周刊-总第90期-一个将 sql 转换为 elasticsearch DSL 的 go 库</description>
+      <pubDate>Fri, 20 Jan 2023 10:01:50 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第91期-2023年第04周</title>
+      <link>https://wiki.eryajf.net/pages/644c4d/</link>
+      <description>学习周刊-总第91期-一个开源的Git客户端</description>
+      <pubDate>Fri, 27 Jan 2023 16:05:44 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第92期-2023年第05周</title>
+      <link>https://wiki.eryajf.net/pages/971e2b/</link>
+      <description>学习周刊-总第92期-一个超级优秀的浏览器网页翻译插件</description>
+      <pubDate>Fri, 03 Feb 2023 10:01:53 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第93期-2023年第06周</title>
+      <link>https://wiki.eryajf.net/pages/a4cf69/</link>
+      <description>学习周刊-总第93期-一个小霸王游戏合集的开源项目</description>
+      <pubDate>Fri, 10 Feb 2023 08:37:01 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第94期-2023年第07周</title>
+      <link>https://wiki.eryajf.net/pages/bb1e7a/</link>
+      <description>学习周刊-总第94期-一个优秀开源的rss阅读器</description>
+      <pubDate>Fri, 17 Feb 2023 21:40:45 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第95期-2023年第08周</title>
+      <link>https://wiki.eryajf.net/pages/5ec73f/</link>
+      <description>学习周刊-总第95期-汇总整理几个优秀的开源图床程序</description>
+      <pubDate>Fri, 24 Feb 2023 09:51:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第96期-2023年第09周</title>
+      <link>https://wiki.eryajf.net/pages/866763/</link>
+      <description>学习周刊-总第96期-超强的开源搜索引擎meilisearch</description>
+      <pubDate>Fri, 03 Mar 2023 20:09:06 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第97期-2023年第10周</title>
+      <link>https://wiki.eryajf.net/pages/823a62/</link>
+      <description>学习周刊-总第97期-一个开源的APM程序</description>
+      <pubDate>Fri, 10 Mar 2023 09:21:50 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第98期-2023年第11周</title>
+      <link>https://wiki.eryajf.net/pages/9e8d81/</link>
+      <description>学习周刊-总第98期-开源的 Mac 端 GIF 录制软件</description>
+      <pubDate>Fri, 17 Mar 2023 08:27:15 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第99期-2023年第12周</title>
+      <link>https://wiki.eryajf.net/pages/e239f5/</link>
+      <description>学习周刊-总第99期-开源的图片编辑器与多功能画板</description>
+      <pubDate>Fri, 24 Mar 2023 08:44:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第100期-2023年第13周</title>
+      <link>https://wiki.eryajf.net/pages/6a3264/</link>
+      <description>学习周刊-总第100期-go语言版本的elasticsearch与Mac上传歌曲到网易云盘的插件</description>
+      <pubDate>Fri, 31 Mar 2023 08:35:17 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第101期-2023年第14周</title>
+      <link>https://wiki.eryajf.net/pages/264dc4/</link>
+      <description></description>
+      <pubDate>Fri, 07 Apr 2023 07:55:55 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第102期-2023年第15周</title>
+      <link>https://wiki.eryajf.net/pages/61eda1/</link>
+      <description>学习周刊-总第101期-一个暴漏github action变量的开源项目</description>
+      <pubDate>Thu, 13 Apr 2023 20:28:33 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第103期-2023年第16周</title>
+      <link>https://wiki.eryajf.net/pages/415247/</link>
+      <description>学习周刊-总第103期-一款安卓系统上的 rss 阅读软件</description>
+      <pubDate>Fri, 21 Apr 2023 19:32:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第104期-2023年第17周</title>
+      <link>https://wiki.eryajf.net/pages/19d76d/</link>
+      <description>学习周刊-总第104期-一个优秀的基于Obsidian将笔记部署为博客的开源方案</description>
+      <pubDate>Thu, 27 Apr 2023 17:48:54 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第105期-2023年第18周</title>
+      <link>https://wiki.eryajf.net/pages/215c5b/</link>
+      <description>学习周刊-总第105期-一款有意思的终端中使用的网易云音乐</description>
+      <pubDate>Fri, 05 May 2023 23:14:59 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第106期-2023年第19周</title>
+      <link>https://wiki.eryajf.net/pages/56968a/</link>
+      <description>学习周刊-总第106期-超级给力的Mac端给应用绑定快捷键的工具</description>
+      <pubDate>Fri, 12 May 2023 09:56:36 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第107期-2023年第20周</title>
+      <link>https://wiki.eryajf.net/pages/b5d2d2/</link>
+      <description>学习周刊-总第107期-又一个Nginx管理面板与一个适合入门的Vue3管理后台项目</description>
+      <pubDate>Fri, 19 May 2023 08:47:20 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第108期-2023年第21周</title>
+      <link>https://wiki.eryajf.net/pages/4fbfaf/</link>
+      <description>学习周刊-总第108期-强大的发短信go库与开源的轻量级gitlab和一个Sql审核平台</description>
+      <pubDate>Fri, 26 May 2023 09:37:27 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第109期-2023年第22周</title>
+      <link>https://wiki.eryajf.net/pages/269e4c/</link>
+      <description>学习周刊-总第109期-一个现代化开源的Linux服务器运维管理面板</description>
+      <pubDate>Fri, 02 Jun 2023 09:21:30 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第110期-2023年第23周</title>
+      <link>https://wiki.eryajf.net/pages/5c314c/</link>
+      <description>学习周刊-总第110期-一个多租户 SaaS 开发框架</description>
+      <pubDate>Fri, 09 Jun 2023 09:24:53 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第111期-2023年第24周</title>
+      <link>https://wiki.eryajf.net/pages/23943e/</link>
+      <description>学习周刊-总第111期-在线双拼练习与两个不错的测试压测管理平台</description>
+      <pubDate>Fri, 16 Jun 2023 09:28:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第112期-2023年第25周</title>
+      <link>https://wiki.eryajf.net/pages/57257c/</link>
+      <description>学习周刊-总第112期-两个开源的智能表格系统与一个多云管理平台</description>
+      <pubDate>Fri, 23 Jun 2023 15:21:09 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第113期-2023年第26周</title>
+      <link>https://wiki.eryajf.net/pages/46449e/</link>
+      <description>学习周刊-总第113期-一款开源免费的WAF</description>
+      <pubDate>Fri, 30 Jun 2023 09:36:52 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第114期-2023年第27周</title>
+      <link>https://wiki.eryajf.net/pages/628a87/</link>
+      <description>学习周刊-总第114期-一款个人和中小型团队的在线文档知识库系统</description>
+      <pubDate>Fri, 07 Jul 2023 09:10:16 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第115期-2023年第28周</title>
+      <link>https://wiki.eryajf.net/pages/127d47/</link>
+      <description>学习周刊-总第115期-开源免费的Markdown语法简历工具</description>
+      <pubDate>Fri, 14 Jul 2023 09:28:27 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第116期-2023年第29周</title>
+      <link>https://wiki.eryajf.net/pages/feff51/</link>
+      <description>学习周刊-总第116期-一款扫描代码中是否包含秘钥敏感信息的工具</description>
+      <pubDate>Fri, 21 Jul 2023 09:17:45 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第117期-2023年第30周</title>
+      <link>https://wiki.eryajf.net/pages/84c373/</link>
+      <description>学习周刊-总第117期-一款值得关注了解的开源CMDB平台</description>
+      <pubDate>Fri, 28 Jul 2023 01:18:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第118期-2023年第31周</title>
+      <link>https://wiki.eryajf.net/pages/30d344/</link>
+      <description>学习周刊-总第118期-一款配置简单，使用方便，捕获和监控进出以及跨容器、pod、命名空间、节点和集群的所有流量。</description>
+      <pubDate>Fri, 04 Aug 2023 09:28:38 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第119期-2023年第32周</title>
+      <link>https://wiki.eryajf.net/pages/fe5601/</link>
+      <description>学习周刊-总第119期-一款开源的思维导图</description>
+      <pubDate>Fri, 11 Aug 2023 09:11:10 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第120期-2023年第33周</title>
+      <link>https://wiki.eryajf.net/pages/99ded0/</link>
+      <description>学习周刊-总第120期-一款go语言编写的开源的自荐邮件服务器系统项目</description>
+      <pubDate>Fri, 18 Aug 2023 09:08:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第121期-2023年第34周</title>
+      <link>https://wiki.eryajf.net/pages/0e1fea/</link>
+      <description>学习周刊-总第121期-Obsidian一些同步方案的介绍</description>
+      <pubDate>Fri, 25 Aug 2023 09:14:50 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第122期-2023年第35周</title>
+      <link>https://wiki.eryajf.net/pages/d0decb/</link>
+      <description>学习周刊-总第122期-一个指导我们构建自己喜欢的技术的开源知识仓库</description>
+      <pubDate>Fri, 01 Sep 2023 09:36:21 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第123期-2023年第36周</title>
+      <link>https://wiki.eryajf.net/pages/e6aa1f/</link>
+      <description>学习周刊-总第123期-🔎 使用关键字搜索所有gitlab项目,并将结果输出为Excel</description>
+      <pubDate>Fri, 08 Sep 2023 08:27:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第124期-2023年第37周</title>
+      <link>https://wiki.eryajf.net/pages/161880/</link>
+      <description>学习周刊-总第124期-Bob的开源版本，以及一个开源的抓包工具</description>
+      <pubDate>Thu, 14 Sep 2023 21:48:38 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第125期-2023年第38周</title>
+      <link>https://wiki.eryajf.net/pages/8e1841/</link>
+      <description>学习周刊-总第125期-几款开源的各语言私服项目</description>
+      <pubDate>Fri, 22 Sep 2023 09:48:50 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第126期-2023年第39周</title>
+      <link>https://wiki.eryajf.net/pages/8b091b/</link>
+      <description>学习周刊-总第126期-与grafana类似的国人开发的监控平台</description>
+      <pubDate>Thu, 28 Sep 2023 20:48:08 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第127期-2023年第40周</title>
+      <link>https://wiki.eryajf.net/pages/8d2bf6/</link>
+      <description>学习周刊-总第127期-优秀的运维实践ansible剧本</description>
+      <pubDate>Thu, 05 Oct 2023 16:00:40 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第128期-2023年第41周</title>
+      <link>https://wiki.eryajf.net/pages/c1499d/</link>
+      <description>学习周刊-总第127期-两个json处理相关的开源项目</description>
+      <pubDate>Fri, 13 Oct 2023 09:28:26 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第129期-2023年第42周</title>
+      <link>https://wiki.eryajf.net/pages/1bb81c/</link>
+      <description>学习周刊-总第129期-域名证书过期检测项目以及又一个redis客户端</description>
+      <pubDate>Fri, 20 Oct 2023 09:20:50 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第130期-2023年第43周</title>
+      <link>https://wiki.eryajf.net/pages/b46f92/</link>
+      <description>学习周刊-总第130期-批量将语雀文档导出为本地Markdown的项目</description>
+      <pubDate>Fri, 27 Oct 2023 09:25:29 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第131期-2023年第44周</title>
+      <link>https://wiki.eryajf.net/pages/94c797/</link>
+      <description>学习周刊-总第131期-一个运维群的每日总结记录</description>
+      <pubDate>Fri, 03 Nov 2023 09:22:51 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第132期-2023年第45周</title>
+      <link>https://wiki.eryajf.net/pages/973c38/</link>
+      <description>学习周刊-总第132期-Nginx如何禁止非域名的80,443的请求</description>
+      <pubDate>Thu, 09 Nov 2023 09:27:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第133期-2023年第46周</title>
+      <link>https://wiki.eryajf.net/pages/616037/</link>
+      <description>学习周刊-总第133期-零配置生成本地ssl证书的工具，以及一个可以将你终端共享的工具</description>
+      <pubDate>Fri, 17 Nov 2023 09:25:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第134期-2023年第47周</title>
+      <link>https://wiki.eryajf.net/pages/46dc19/</link>
+      <description>学习周刊-总第134期-一个go的rss库</description>
+      <pubDate>Fri, 24 Nov 2023 09:41:11 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第135期-2023年第48周</title>
+      <link>https://wiki.eryajf.net/pages/883f27/</link>
+      <description>学习周刊-总第135期-两个go语言开发的定时任务管理系统平台</description>
+      <pubDate>Thu, 30 Nov 2023 23:50:34 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第136期-2023年第49周</title>
+      <link>https://wiki.eryajf.net/pages/eb495e/</link>
+      <description>学习周刊-总第136期-一个面向生产环境的 MySQL 同步工具</description>
+      <pubDate>Thu, 07 Dec 2023 22:29:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第137期-2023年第50周</title>
+      <link>https://wiki.eryajf.net/pages/854f9d/</link>
+      <description>学习周刊-总第137期-一个docker-compose管理面板和一个ldap认证库</description>
+      <pubDate>Thu, 14 Dec 2023 23:52:34 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第138期-2023年第51周</title>
+      <link>https://wiki.eryajf.net/pages/0d5163/</link>
+      <description>学习周刊-总第138期-又一款开源的elasticsearch管控端项目</description>
+      <pubDate>Thu, 21 Dec 2023 22:01:07 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第139期-2023年第52周</title>
+      <link>https://wiki.eryajf.net/pages/3c7c6a/</link>
+      <description>学习周刊-总第139期-一个开源的ssl证书监控系统</description>
+      <pubDate>Thu, 28 Dec 2023 23:26:46 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第140期-2024年第01周</title>
+      <link>https://wiki.eryajf.net/pages/face3c/</link>
+      <description>学习周刊-总第140期-两个与docker相关的开源项目</description>
+      <pubDate>Thu, 04 Jan 2024 23:08:08 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第141期-2024年第02周</title>
+      <link>https://wiki.eryajf.net/pages/191cc4/</link>
+      <description>学习周刊-总第141期-一年一度的23年博客届春晚</description>
+      <pubDate>Thu, 11 Jan 2024 23:56:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第142期-2024年第03周</title>
+      <link>https://wiki.eryajf.net/pages/b0f439/</link>
+      <description>学习周刊-总第142期-又有两款开源的类似postman的管理工具</description>
+      <pubDate>Thu, 18 Jan 2024 22:39:52 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第143期-2024年第04周</title>
+      <link>https://wiki.eryajf.net/pages/9661a3/</link>
+      <description>学习周刊-总第143期-awesome-ops运维领域的宝典</description>
+      <pubDate>Thu, 25 Jan 2024 21:21:17 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第144期-2024年第05周</title>
+      <link>https://wiki.eryajf.net/pages/4b8996/</link>
+      <description>学习周刊-总第144期-两个内网穿透项目</description>
+      <pubDate>Thu, 01 Feb 2024 22:14:55 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第145期-2024年第06周</title>
+      <link>https://wiki.eryajf.net/pages/bcdf69/</link>
+      <description>学习周刊-总第145期-几个中间件管理后台项目</description>
+      <pubDate>Fri, 09 Feb 2024 16:29:53 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第146期-2024年第07周</title>
+      <link>https://wiki.eryajf.net/pages/f351e3/</link>
+      <description>学习周刊-总第146期-一个小型轻量级的监听docker容器日志的应用程序</description>
+      <pubDate>Thu, 15 Feb 2024 21:31:06 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第147期-2024年第08周</title>
+      <link>https://wiki.eryajf.net/pages/5997f0/</link>
+      <description>学习周刊-总第147期-一个项目协作开源软件</description>
+      <pubDate>Fri, 23 Feb 2024 08:49:20 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第148期-2024年第09周</title>
+      <link>https://wiki.eryajf.net/pages/5e2bc3/</link>
+      <description>学习周刊-总第148期-一个开源数据库一体化监控平台</description>
+      <pubDate>Thu, 29 Feb 2024 23:05:47 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第149期-2024年第10周</title>
+      <link>https://wiki.eryajf.net/pages/9c5e05/</link>
+      <description>学习周刊-总第149期-一款集成Website analytics+ Uptime Monitor + Server Status的网站状态监测工具</description>
+      <pubDate>Thu, 07 Mar 2024 22:29:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第150期-2024年第11周</title>
+      <link>https://wiki.eryajf.net/pages/1fe169/</link>
+      <description>学习周刊-总第150期-本期干货太多，快来看</description>
+      <pubDate>Thu, 14 Mar 2024 22:06:21 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第151期-2024年第12周</title>
+      <link>https://wiki.eryajf.net/pages/417af1/</link>
+      <description>学习周刊-总第151期。jc：能够将常用的Linux命令输出转为json格式，以便于进行二次处理。Aegis：颜值很高很好用的安卓2 FA 软件。</description>
+      <pubDate>Fri, 22 Mar 2024 07:46:36 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第152期-2024年第13周</title>
+      <link>https://wiki.eryajf.net/pages/36ea62/</link>
+      <description>学习周刊-总第152期。一个简单的构建框架，具有快速、可重复的构建和立即熟悉的语法 - 就像 Dockerfile 和 Makefile 一样。</description>
+      <pubDate>Thu, 28 Mar 2024 22:20:39 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第153期-2024年第14周</title>
+      <link>https://wiki.eryajf.net/pages/dd67ad/</link>
+      <description>学习周刊-总第153期,开源的监控 Github 代码仓库是否有泄漏的系统</description>
+      <pubDate>Thu, 04 Apr 2024 22:24:38 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第154期-2024年第15周</title>
+      <link>https://wiki.eryajf.net/pages/3d98bf/</link>
+      <description>学习周刊-总第154期,目前体验到最好用的全面的环境多版本管理工具，支持go,node,java,python等</description>
+      <pubDate>Wed, 10 Apr 2024 22:54:35 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第155期-2024年第16周</title>
+      <link>https://wiki.eryajf.net/pages/1a1eb1/</link>
+      <description>学习周刊-总第155期,又一款开源的数据库软件，又一款开源的类似沉浸式翻译的插件</description>
+      <pubDate>Fri, 19 Apr 2024 00:17:35 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第156期-2024年第17周</title>
+      <link>https://wiki.eryajf.net/pages/86eeef/</link>
+      <description>学习周刊-总第156期,一个通用的开源落地页模板</description>
+      <pubDate>Thu, 25 Apr 2024 21:52:52 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第157期-2024年第18周</title>
+      <link>https://wiki.eryajf.net/pages/1b7cd5/</link>
+      <description>学习周刊-总第157期,抓包工具与es客户端</description>
+      <pubDate>Thu, 02 May 2024 21:06:27 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第158期-2024年第19周</title>
+      <link>https://wiki.eryajf.net/pages/89722e/</link>
+      <description>学习周刊-总第158期,kpexec一个能够以root用户exec到普通用户运行的k8s容器中</description>
+      <pubDate>Thu, 09 May 2024 22:05:51 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第159期-2024年第20周</title>
+      <link>https://wiki.eryajf.net/pages/e4bd82/</link>
+      <description>学习周刊-总第159期,新的vue管理后台与看板项目</description>
+      <pubDate>Thu, 16 May 2024 21:01:25 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第160期-2024年第21周</title>
+      <link>https://wiki.eryajf.net/pages/2a7acf/</link>
+      <description>学习周刊-总第160期,多合一的支持多个模型的浏览器插件</description>
+      <pubDate>Thu, 23 May 2024 22:14:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第161期-2024年第22周</title>
+      <link>https://wiki.eryajf.net/pages/a02638/</link>
+      <description>学习周刊-总第161期,alist,ollama，好货多多</description>
+      <pubDate>Thu, 30 May 2024 20:35:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第162期-2024年第23周</title>
+      <link>https://wiki.eryajf.net/pages/282b7d/</link>
+      <description>学习周刊-总第162期,现在各个厂免费证书都变成3个月了，分享几个自动续签的开源项目</description>
+      <pubDate>Thu, 06 Jun 2024 21:45:06 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第163期-2024年第24周</title>
+      <link>https://wiki.eryajf.net/pages/722107/</link>
+      <description>学习周刊-总第163期,多功能、轻量化、高性能的 macOS 屏幕录制工具</description>
+      <pubDate>Thu, 13 Jun 2024 21:28:38 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第164期-2024年第25周</title>
+      <link>https://wiki.eryajf.net/pages/617acd/</link>
+      <description>学习周刊-总第164期,几个开源的后端管理平台</description>
+      <pubDate>Thu, 20 Jun 2024 22:41:36 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第165期-2024年第26周</title>
+      <link>https://wiki.eryajf.net/pages/48f2ad/</link>
+      <description>学习周刊-总第165期,一个特性管理平台与sqlite管理项目</description>
+      <pubDate>Thu, 27 Jun 2024 20:45:44 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第166期-2024年第27周</title>
+      <link>https://wiki.eryajf.net/pages/b17f8f/</link>
+      <description>学习周刊-总第166期,一个基于 vue 和 goframe 2.0 开发的全栈前后端分离的开发基础平台和移动应用平台</description>
+      <pubDate>Thu, 04 Jul 2024 22:34:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第167期-2024年第28周</title>
+      <link>https://wiki.eryajf.net/pages/5f72a4/</link>
+      <description>学习周刊-总第167期,开源的录屏软件</description>
+      <pubDate>Thu, 11 Jul 2024 21:34:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第168期-2024年第29周</title>
+      <link>https://wiki.eryajf.net/pages/68030a/</link>
+      <description>学习周刊-总第168期,redis数据同步工具</description>
+      <pubDate>Thu, 18 Jul 2024 21:52:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第169期-2024年第30周</title>
+      <link>https://wiki.eryajf.net/pages/627a24/</link>
+      <description>学习周刊-总第169期,一个颜值颇高的短链系统</description>
+      <pubDate>Fri, 26 Jul 2024 20:50:15 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第170期-2024年第31周</title>
+      <link>https://wiki.eryajf.net/pages/9ec7cf/</link>
+      <description>学习周刊-总第170期,容器镜像加速|轻量堡垒机|新的管理后台</description>
+      <pubDate>Wed, 31 Jul 2024 23:23:33 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第171期-2024年第32周</title>
+      <link>https://wiki.eryajf.net/pages/18f52a/</link>
+      <description>学习周刊-总第171期,go 进程优雅重启能力的 go 库|智能化的 Kubernetes 平台|前后端分离的管理系统|云计算泥石流</description>
+      <pubDate>Thu, 08 Aug 2024 22:59:10 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第172期-2024年第33周</title>
+      <link>https://wiki.eryajf.net/pages/8d036c/</link>
+      <description>学习周刊-总第172期|whoami|caesium-image-compressor|quick-waitlist|inwind-landing-page|fastapi-admin</description>
+      <pubDate>Thu, 15 Aug 2024 21:16:07 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第173期-2024年第34周</title>
+      <link>https://wiki.eryajf.net/pages/b52310/</link>
+      <description>学习周刊-总第173期|logdy-core|legado|Logoer|pgbackweb|Pearcleaner</description>
+      <pubDate>Thu, 22 Aug 2024 22:23:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第174期-2024年第35周</title>
+      <link>https://wiki.eryajf.net/pages/eb4690/</link>
+      <description>学习周刊-总第174期| Remembering-Haoel | fastapi-vue-admin | drag-to-preview | SwitchHosts | image-matting | matting-website | easeprobe</description>
+      <pubDate>Thu, 29 Aug 2024 21:58:45 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第175期-2024年第36周</title>
+      <link>https://wiki.eryajf.net/pages/ad8c56/</link>
+      <description>学习周刊-总第175期--重磅推荐我的最新开源项目，https://github.com/eryajf/cloud_dns_exporter，自动获取 DNS 提供商的域名及解析列表，同时自动获取每个域名解析的证书信息，并导出为 Prometheus Metrics。已支持：Tencent，Aliyun，Godaddy，Aws。</description>
+      <pubDate>Thu, 05 Sep 2024 22:32:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第176期-2024年第37周</title>
+      <link>https://wiki.eryajf.net/pages/8764bf/</link>
+      <description>学习周刊-总第176期-doggo | certimate | x-cmd | dufs | wktline-client | Animated-Fluent-Emojis | web-firewall</description>
+      <pubDate>Thu, 12 Sep 2024 20:26:44 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第177期-2024年第38周</title>
+      <link>https://wiki.eryajf.net/pages/91004b/</link>
+      <description>学习周刊-总第177期 | siglens | socialify | Addax | BackgroundMusic | chartdb | next-whois-ui | lldap</description>
+      <pubDate>Sun, 22 Sep 2024 16:29:20 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第178期-2024年第39周</title>
+      <link>https://wiki.eryajf.net/pages/398abb/</link>
+      <description>学习周刊-总第178期 | Kotatsu | AndroidNetworkTools | LogicFlow | quickemu | git_curate | taskcafe</description>
+      <pubDate>Thu, 26 Sep 2024 21:30:13 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第179期-2024年第40周</title>
+      <link>https://wiki.eryajf.net/pages/9454ad/</link>
+      <description>如要阅读全文，点击标题跳转。学习周刊-总第179期  | publicsuffix-go | BarTranslate | jenkins-cli | LunarLink | dolphinscheduler | wanderer</description>
+      <pubDate>Sat, 05 Oct 2024 14:26:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第180期-2024年第41周</title>
+      <link>https://wiki.eryajf.net/pages/6dc85f/</link>
+      <description>如要阅读全文，点击标题跳转。学习周刊-总第180期   | Chital | linkandroid | WebViewTvLive | NetMount | screenity | wechat-article-exporter | flutter_server_box</description>
+      <pubDate>Thu, 10 Oct 2024 22:00:24 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第181期-2024年第42周</title>
+      <link>https://wiki.eryajf.net/pages/4abe84/</link>
+      <description>如要阅读全文，点击标题跳转。学习周刊-总第181期   | diboot | smail | FList | code-server | TinySSH</description>
+      <pubDate>Thu, 17 Oct 2024 22:16:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第182期-2024年第43周</title>
+      <link>https://wiki.eryajf.net/pages/225eaf/</link>
+      <description>如要阅读全文，点击标题跳转。学习周刊-总第182期 | HivisionIDPhotos | MacsyZones | mongodbapp | redisapp | ES-King | Kafka-King | Nexterm</description>
+      <pubDate>Thu, 24 Oct 2024 22:58:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第183期-2024年第44周</title>
+      <link>https://wiki.eryajf.net/pages/ad9674/</link>
+      <description>如要阅读全文，点击标题跳转。学习周刊-总第183期 | rocketmq-monitor | gorse | ebpf-firewall | go-learning | pixiu | github-activity</description>
+      <pubDate>Thu, 31 Oct 2024 22:15:22 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第184期-2024年第45周</title>
+      <link>https://wiki.eryajf.net/pages/88fc71/</link>
+      <description>如要阅读全文，点击标题跳转。学习周刊-总第184期 | gomplate | knife4j | knife4go | minimalist-saas | LeapLedger</description>
+      <pubDate>Thu, 07 Nov 2024 23:07:53 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第185期-2024年第46周</title>
+      <link>https://wiki.eryajf.net/pages/068556/</link>
+      <description>如要阅读全文，点击标题跳转。学习周刊-总第185期 | ldap-server | neohtop | gatus | hexo-theme-anzhiyu | MaterialFiles | puter</description>
+      <pubDate>Thu, 14 Nov 2024 20:55:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第186期-2024年第47周</title>
+      <link>https://wiki.eryajf.net/pages/6c583e/</link>
+      <description>如要阅读全文，点击标题跳转。学习周刊-总第186期  | gojay | moon | APIPark | cast | icons</description>
+      <pubDate>Thu, 21 Nov 2024 21:18:09 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第187期-2024年第48周</title>
+      <link>https://wiki.eryajf.net/pages/fa54e6/</link>
+      <description>如要阅读全文，点击标题跳转。学习周刊-总第187期 | dongle | moodiary | yiyin | picseal | wx_channels_download | huh</description>
+      <pubDate>Thu, 28 Nov 2024 21:20:04 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第188期-2024年第49周</title>
+      <link>https://wiki.eryajf.net/pages/323bb0/</link>
+      <description>如要阅读全文，点击标题跳转。学习周刊-总第188期 | elastop | mail-server | Page Sidebar | kubernetes-event-exporter | beszel</description>
+      <pubDate>Thu, 05 Dec 2024 21:32:46 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第189期-2024年第50周</title>
+      <link>https://wiki.eryajf.net/pages/8b5257/</link>
+      <description>如要阅读全文，点击标题跳转。学习周刊-总第189期 | akile_monitor | readest | redeem-hub | bananas | supertokens-core | kubewall</description>
+      <pubDate>Thu, 12 Dec 2024 21:10:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第190期-2024年第51周</title>
+      <link>https://wiki.eryajf.net/pages/f01fbd/</link>
+      <description>如要阅读全文，点击标题跳转。学习周刊-总第190期 | hurl | gortal | githubchart-api | uber_go_guide_cn | read-cat | koodo-reader</description>
+      <pubDate>Thu, 19 Dec 2024 22:10:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第191期-2024年第52周</title>
+      <link>https://wiki.eryajf.net/pages/98122f/</link>
+      <description>如要阅读全文，点击标题跳转。 | miniredis | FastSend | Olares | SmartBrief | kkTerminal</description>
+      <pubDate>Thu, 26 Dec 2024 20:27:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第192期-2025年第01周</title>
+      <link>https://wiki.eryajf.net/pages/16a30b/</link>
+      <description>如要阅读全文，点击标题跳转。 学习周刊-总第192期 | review-2024 | kom | Peninsula | talebook | RSS.Beauty</description>
+      <pubDate>Thu, 09 Jan 2025 21:30:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第193期-2025年第02周</title>
+      <link>https://wiki.eryajf.net/pages/16a30c/</link>
+      <description>如要阅读全文，点击标题跳转。 学习周刊-总第193期 | Nping  | KubeDoor  | wechatDataBackup  | transok-wails</description>
+      <pubDate>Thu, 09 Jan 2025 21:33:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第194期-2025年第03周</title>
+      <link>https://wiki.eryajf.net/pages/c3722a/</link>
+      <description>如要阅读全文，点击标题跳转。 学习周刊-总第194期 | ops | note-gen | daybar | termora | fsnotes | v2ex</description>
+      <pubDate>Thu, 16 Jan 2025 21:55:59 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第195期-2025年第04周</title>
+      <link>https://wiki.eryajf.net/pages/892f1a/</link>
+      <description>如要阅读全文，点击标题跳转。 学习周刊-总第195期 | vitepress-theme-curve | ThriveX-Blog | site-status | yaak | electerm</description>
+      <pubDate>Wed, 22 Jan 2025 20:50:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第196期-2025年第05周</title>
+      <link>https://wiki.eryajf.net/pages/4fb5cc/</link>
+      <description>如要阅读全文，点击标题跳转。 学习周刊-总第196期 | SamWaf | many-notes | dnd-resume | self-consistent-coder | VideoCaptioner</description>
+      <pubDate>Wed, 29 Jan 2025 19:07:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第197期-2025年第06周</title>
+      <link>https://wiki.eryajf.net/pages/6a3f6a/</link>
+      <description>如要阅读全文，点击标题跳转。 学习周刊-总第197期  | xior | Ice | air-controller-desktop | VutronMusic</description>
+      <pubDate>Thu, 06 Feb 2025 19:08:53 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第198期-2025年第07周</title>
+      <link>https://wiki.eryajf.net/pages/b803dc/</link>
+      <description>如要阅读全文，点击标题跳转。 学习周刊-总第198期   | domain-helper | handy-ollama | rag-web-ui | video-subtitle-master | AIaW</description>
+      <pubDate>Thu, 13 Feb 2025 23:28:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第199期-2025年第08周</title>
+      <link>https://wiki.eryajf.net/pages/3365c2/</link>
+      <description>如要阅读全文，点击标题跳转。 学习周刊-总第199期 | gserver | oneterm | ajax-tools | chatgpt-on-wechat | chatwiki | one-hub | cat-catch</description>
+      <pubDate>Thu, 20 Feb 2025 20:47:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第200期-2025年第09周</title>
+      <link>https://wiki.eryajf.net/pages/8e2c8f/</link>
+      <description>如要阅读全文，点击标题跳转。 学习周刊-总第200期  | go-sail  | IdeaMemo  | Goh  | mediago  | LibreChat  | Awesome-independent-tools  | smart-api</description>
+      <pubDate>Thu, 27 Feb 2025 23:59:47 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第201期-2025年第10周</title>
+      <link>https://wiki.eryajf.net/pages/5bedc8/</link>
+      <description>如要阅读全文，点击标题跳转。 学习周刊-总第201期   | HiveChat | sqlchat | atujii | aya | analytics | deep-research-web-ui | UotanToolboxNT</description>
+      <pubDate>Thu, 06 Mar 2025 20:57:16 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第202期-2025年第11周</title>
+      <link>https://wiki.eryajf.net/pages/961b20/</link>
+      <description>如要阅读全文，点击标题跳转。 学习周刊-总第202期   webdav | HiPixel | Mail-0 | lucky-canvas | deepchat | jet-pilot |</description>
+      <pubDate>Thu, 13 Mar 2025 22:23:36 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第203期-2025年第12周</title>
+      <link>https://wiki.eryajf.net/pages/496793/</link>
+      <description>如要阅读全文，点击标题跳转。 学习周刊 - 总第 203 期 | jenkins-update-center | dns-easy-switcher | flowmix-flow | vitepress-carbon | AingDesk</description>
+      <pubDate>Thu, 20 Mar 2025 21:26:52 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第204期-2025年第13周</title>
+      <link>https://wiki.eryajf.net/pages/44eb60/</link>
+      <description>如要阅读全文，点击标题跳转。 学习周刊 - 总第 204 期 | docmost | SmsForwarder | Stirling-PDF | codeimage | art-design-pro | Klee</description>
+      <pubDate>Thu, 27 Mar 2025 21:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第205期-2025年第14周</title>
+      <link>https://wiki.eryajf.net/pages/df6d73/</link>
+      <description>如要阅读全文，点击标题跳转。 学习周刊 - 总第 205 期 | NiceTab | AltTaber | Yuxi-Know | social-media-copilot | dns-benchmark</description>
+      <pubDate>Thu, 03 Apr 2025 21:42:52 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第206期-2025年第15周</title>
+      <link>https://wiki.eryajf.net/pages/cfb757/</link>
+      <description>如要阅读全文，点击标题跳转。 学习周刊 - 总第 206 期 | go-mcp | shadcn-admin | basic | magic-resume | goread | weave</description>
+      <pubDate>Thu, 10 Apr 2025 21:43:06 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
