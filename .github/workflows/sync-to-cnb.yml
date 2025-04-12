@@ -1,6 +1,10 @@
 name: Sync to CNB
 
-on: [push]
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'learning-weekly.xml'
 
 jobs:
   sync:
