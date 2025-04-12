@@ -1,6 +1,24 @@
 main:
   push:
     - stages:
+        - name: generate rss
+          script: |
+            ./gorss --root ./docs > learning-weekly.xml
+        # - name: set token
+        #   imports: https://cnb.cool/eryajf/build-env/-/blob/main/env.yaml
+        #   image: tencentcom/git-set-credential:latest
+        #   settings:
+        #     userName: ${USER_NAME}
+        #     userEmail: ${USER_EMAIL}
+        #     loginUserName: ${LOGIN_USER_NAME}
+        #     loginPassword: ${LOGIN_PASSWORD}
+        - name: commit
+          image: tencentcom/git-commit:latest
+          settings:
+            add:
+              - learning-weekly.xml
+            commitMessage: "commit by ci"
+            pushCurrent: true
         - name: sync to github
           image: tencentcom/git-sync
           imports: https://cnb.cool/eryajf/build-env/-/blob/main/env.yaml
