@@ -1,10 +1,8 @@
-ifModify:
-- "**"  # 匹配所有文件
-- "!(learning-weekly.xml)"  # 排除 learning-weekly.xml 文件
-
 main:
   push:
-    - stages:
+    - ifModify:
+        - "!(learning-weekly.xml)"
+      stages:
         - name: generate rss
           script: |
             ./gorss --root ./docs > learning-weekly.xml
