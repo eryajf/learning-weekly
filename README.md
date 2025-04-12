@@ -1,4 +1,18 @@
-## 学习周刊
+<div align="center">
+<h1>Learning-Weekly</h1>
+
+[![Auth](https://img.shields.io/badge/Auther--eryajf-ff69b4.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAADZElEQVR4nO2ZX2iPURjHP/7/aZN/E21DaZvtwoVYyQUuGXLB/LtkLRcUhSJMSVwg3KCUJPJvLmRZtMQFLvwZhUJk/saGLWaYV6eet06n9/3tfd+9531/sW89td9z3vOc8z3nPOc8zzPoQQ+yAnlAA/AbcCzKR2ClTSL7LRNwNPkB5Noi0pggEQeYbovIh4SJLLBBojfwK2EiVTaIjEyYhANsskGkNAUi+2wQmZECkRM2iCxMgUi9DSKrxPhS7GOZjHXPhvGtYlwdMduYKWO9tmH8oBgvxj6KZawOoFfcxk+L8RzsI0fzkyFhO28EvqXg0FHlK1DtReRzFkzOCSmfvIhczIKJOSHlmheRgcAK4E4WTNDpQp4Ba4P4zxRgO3ArgSQqqDQDx4AKCWBDYwSwRDP4JWECG4CpQB9iwCTNsBsJl8srvxk4CtQBN4Enkre0GKQ7RaekCXgAXAcuAHuB1bLaZcAgrd+2uK78ai0PsfLSBshG70u9IDJmyUq2AYvlbD5N4Dg9l/EnArdFV9sdIlfEiLrNzFAlqPwE2kP2OaKNlyfH8Q9QFJVIixgepukqIuTdRRI3Be1TaczjnOgXRSXyTgwUarrBIVb4htbvcMA+nR7+UCdtc6MSOS8G9hj6+gjlnHEBd+WuMVaZ9FMyJiqRydrgB4B80VcFmFBtxALfFm3nlwPv48rfK7WoWDkc8jgpYq0eE/kOnAGG+4RBh3z6qTGOyzfIJeG2nQL6EQMmaEaTgtNdv+jKcFJwbI33XxEpAM76+IArrXIbFqVFpE0MuzeXF4nmEI9ecwZbhVo6GzsaxLhnniw74YQUVdDwwjppv2yzaPbIJ7HJdJz8RIX5JgYAL6V9vg0ifYEXMsAaj3Z3cpfkmPmhQAs5vHxgh+gbbdS0XMyTQdrkbdHhTiwTCdMHTCLl8hCqeGsalnFSO2JDNb3XxOZINqhkttFmfq8W4I1PbGcFuVr21qCloe7EarRvmzT9K01fYxAZJVmgA1yNKxwh4NF4q0Wr+UZs5JIxndskoVLoEskI1e/HRu6TCEpklR1ZebPcqk/YT9cu1UL190NgNCmhQGpfTjelLo2dMNEf2BkylXVF7eL6qAU3WyiVvCHIv7A7pBY2nizGWGC3FOr0XeoQZ96VIcbqAf8K/gLNGaTJ3vwbFgAAAABJRU5ErkJggg==)](https://github.com/eryajf)
+[![Eryajf HitCount](https://views.whatilearened.today/views/github/eryajf/eryajf.svg)](https://github.com/eryajf)
+[![GitHub license](https://img.shields.io/github/license/eryajf/Learning-Weekly)](https://github.com/eryajf/Learning-Weekly/blob/main/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/eryajf/Learning-Weekly)](https://github.com/eryajf/Learning-Weekly/stargazers)
+[![Eryajf Blog](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5-d7b1bf?logo=Blogger)](https://wiki.eryajf.net)
+[![Eryajf WeChat](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E8%BF%90%E7%BB%B4%E8%89%BA%E6%9C%AF-71f9fe?logo=WeChat)](https://y.gtimg.cn/music/photo_new/T053M000003iCCnF30PTi3.jpg)
+[![Eryajf Awesome Stars](https://img.shields.io/badge/Awesome-MyStarList-c780fa?logo=Awesome-Lists)](https://github.com/eryajf/awesome-stars-eryajf#readme)
+
+<p> 🧰 二丫讲梵-学习周刊 🧘</p>
+
+<img src="https://cnb.cool/66666/resource/-/git/raw/main/img/hengtiao.gif" width="100%"  height="3">
+</div>
 
 欢迎投稿，推荐或自荐项目/文章/博客，请提交 [issue](https://github.com/eryajf/Learning-Weekly/issues/new/choose) 。
 
@@ -10,7 +24,7 @@
 
 🔥 有不少人想单独从博客通过 RSS 订阅周刊的更新，现在它来了，你可以使用这个[🔗 链接](https://wiki.eryajf.net/learning-weekly.xml)进行订阅。
 
-## 周刊列表
+## ✅ 周刊列表
 
 <div align="center">
 
@@ -33,7 +47,7 @@
 |第236期|第237期|第238期|第239期|
 |第240期|第241期|第242期|第243期|
 
-<img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif"
+<img src="https://cnb.cool/66666/resource/-/git/raw/main/img/hengtiao.gif"
 width="800"  height="3">
 
 ### 🐲 2024 年
@@ -54,7 +68,7 @@ width="800"  height="3">
 |                              [第 184 期](./docs/04.2024年/45.学习周刊-总第184期-2024年第45周.md)                              |                              [第 185 期](./docs/04.2024年/46.学习周刊-总第185期-2024年第46周.md)                              |                              [第 186 期](./docs/04.2024年/47.学习周刊-总第186期-2024年第47周.md)                              |                              [第 187 期](./docs/04.2024年/48.学习周刊-总第187期-2024年第48周.md)                              |
 |                              [第 188 期](./docs/04.2024年/49.学习周刊-总第188期-2024年第49周.md)                              |                              [第 189 期](./docs/04.2024年/50.学习周刊-总第189期-2024年第50周.md)                              |                              [第 190 期](./docs/04.2024年/51.学习周刊-总第190期-2024年第51周.md)                              |                              [第 191 期](./docs/04.2024年/52.学习周刊-总第191期-2024年第52周.md)                              |
 
-<img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif"
+<img src="https://cnb.cool/66666/resource/-/git/raw/main/img/hengtiao.gif"
 width="800"  height="3">
 
 ### 🐰 2023 年
@@ -75,7 +89,7 @@ width="800"  height="3">
 |                                       [第 132 期](./docs/03.2023年/45.学习周刊-总第132期-2023年第45周.md)                                        |                                       [第 133 期](./docs/03.2023年/46.学习周刊-总第133期-2023年第46周.md)                                        |                                       [第 134 期](./docs/03.2023年/47.学习周刊-总第134期-2023年第47周.md)                                        |                                       [第 135 期](./docs/03.2023年/48.学习周刊-总第135期-2023年第48周.md)                                        |
 |                                       [第 136 期](./docs/03.2023年/49.学习周刊-总第136期-2023年第49周.md)                                        |                                       [第 137 期](./docs/03.2023年/50.学习周刊-总第137期-2023年第50周.md)                                        |                                       [第 138 期](./docs/03.2023年/51.学习周刊-总第138期-2023年第51周.md)                                        |                                       [第 139 期](./docs/03.2023年/52.学习周刊-总第139期-2023年第52周.md)                                        |
 
-<img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif"
+<img src="https://cnb.cool/66666/resource/-/git/raw/main/img/hengtiao.gif"
 width="800"  height="3">
 
 ### 🐯 2022 年
@@ -96,7 +110,7 @@ width="800"  height="3">
 |                          [第 80 期](./docs/02.2022%E5%B9%B4/45.%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A-%E6%80%BB%E7%AC%AC80%E6%9C%9F-2022%E5%B9%B4%E7%AC%AC45%E5%91%A8.md)                          |                          [第 81 期](./docs/02.2022%E5%B9%B4/46.%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A-%E6%80%BB%E7%AC%AC81%E6%9C%9F-2022%E5%B9%B4%E7%AC%AC46%E5%91%A8.md)                          |                          [第 82 期](./docs/02.2022%E5%B9%B4/47.%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A-%E6%80%BB%E7%AC%AC82%E6%9C%9F-2022%E5%B9%B4%E7%AC%AC47%E5%91%A8.md)                          |                          [第 83 期](./docs/02.2022%E5%B9%B4/48.%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A-%E6%80%BB%E7%AC%AC83%E6%9C%9F-2022%E5%B9%B4%E7%AC%AC48%E5%91%A8.md)                          |
 |                          [第 84 期](./docs/02.2022%E5%B9%B4/49.%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A-%E6%80%BB%E7%AC%AC84%E6%9C%9F-2022%E5%B9%B4%E7%AC%AC49%E5%91%A8.md)                          |                          [第 85 期](./docs/02.2022%E5%B9%B4/50.%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A-%E6%80%BB%E7%AC%AC85%E6%9C%9F-2022%E5%B9%B4%E7%AC%AC50%E5%91%A8.md)                          |                          [第 86 期](./docs/02.2022%E5%B9%B4/51.%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A-%E6%80%BB%E7%AC%AC86%E6%9C%9F-2022%E5%B9%B4%E7%AC%AC51%E5%91%A8.md)                          |                          [第 87 期](./docs/02.2022%E5%B9%B4/52.%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%88%8A-%E6%80%BB%E7%AC%AC87%E6%9C%9F-2022%E5%B9%B4%E7%AC%AC52%E5%91%A8.md)                          |
 
-<img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif"
+<img src="https://cnb.cool/66666/resource/-/git/raw/main/img/hengtiao.gif"
 width="800"  height="3">
 
 ### 🐮 2021 年
@@ -115,10 +129,15 @@ width="800"  height="3">
 
 </div>
 
-## 周刊缘起
+## 🫡 周刊缘起
 
 学习周刊的想法来自阮一峰老师的《科技爱好者周刊》：https://github.com/ruanyf/weekly
 
-## 最新动态
+## 📇 项目地址
 
-20250320：主更新地： https://cnb.cool/eryajf/Learning-Weekly
+可选择你熟悉的平台浏览源码：
+
+|   服务商   |                   地址                   |
+| :------: | :------------------------------------------: |
+|  `CNB`  | <https://cnb.cool/eryajf/Learning-Weekly>  |
+| `GitHub` | <https://github.com/eryajf/Learning-Weekly> |
