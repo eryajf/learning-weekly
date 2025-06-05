@@ -4,7 +4,7 @@
     <link>https://wiki.eryajf.net/learning-weekly/</link>
     <description>这里记录我每周工作学习过程中遇到学到的优秀开源项目，优秀文章，以及优秀博客。有很多优秀的内容，都值得被铭记，值得被分享，值得被更多人学习，周刊想通过这里每周的记录分享，一方面强化自己对优秀内容的认识与学习，另一方面能够把优质内容统一汇总，以飨大众。&#xA;&#xA;&#x9;&#x9;周刊的内容会以运维技术和 Golang 为主，以及 GitHub 上优秀项目或经验。已经经过一次筛选过滤的内容，质量不会太差，在你空闲无事的时候，可以过来随便看看，必能有所收益。&#xA;&#xA;&#x9;&#x9;周刊维护在：https://github.com/eryajf/learning-weekly 欢迎投稿，推荐或自荐项目 /文章 /博客，请提交 issue 。</description>
     <managingEditor>eryajf@163.com (eryajf)</managingEditor>
-    <pubDate>Thu, 29 May 2025 21:23:57 +0800</pubDate>
+    <pubDate>Thu, 05 Jun 2025 21:58:44 +0800</pubDate>
     <item>
       <title>学习周刊-总第1期-2021年第18周</title>
       <link>https://wiki.eryajf.net/pages/11c668/</link>
@@ -1282,6 +1282,12 @@
       <link>https://wiki.eryajf.net/pages/e0965e/</link>
       <description>如要阅读全文，点击标题跳转。 学习周刊 - 总第 213 期   | do | kubetail | oxide-wdns | chrome-tabboost | PayQrcode | rybbit | arcane | NuxSaaS</description>
       <pubDate>Thu, 29 May 2025 21:22:22 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第214期-2025年第23周</title>
+      <link>https://wiki.eryajf.net/pages/343b51/</link>
+      <description>如要阅读全文，点击标题跳转。 学习周刊 - 总第 214 期   | GKD_subscription | PicSharp | coolmonitor | GoVisual | smart-admin | code-inspector | FlyEnv</description>
+      <pubDate>Thu, 05 Jun 2025 21:52:34 +0800</pubDate>
     </item>
   </channel>
 </rss>
