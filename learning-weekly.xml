@@ -4,7 +4,7 @@
     <link>https://wiki.eryajf.net/learning-weekly/</link>
     <description>这里记录我每周工作学习过程中遇到学到的优秀开源项目，优秀文章，以及优秀博客。有很多优秀的内容，都值得被铭记，值得被分享，值得被更多人学习，周刊想通过这里每周的记录分享，一方面强化自己对优秀内容的认识与学习，另一方面能够把优质内容统一汇总，以飨大众。&#xA;&#xA;&#x9;&#x9;周刊的内容会以运维技术和 Golang 为主，以及 GitHub 上优秀项目或经验。已经经过一次筛选过滤的内容，质量不会太差，在你空闲无事的时候，可以过来随便看看，必能有所收益。&#xA;&#xA;&#x9;&#x9;周刊维护在：https://github.com/eryajf/learning-weekly 欢迎投稿，推荐或自荐项目 /文章 /博客，请提交 issue 。</description>
     <managingEditor>eryajf@163.com (eryajf)</managingEditor>
-    <pubDate>Thu, 16 Apr 2026 22:30:39 +0800</pubDate>
+    <pubDate>Fri, 24 Apr 2026 15:54:38 +0800</pubDate>
     <item>
       <title>学习周刊-总第1期-2021年第18周</title>
       <link>https://wiki.eryajf.net/pages/11c668/</link>
@@ -1558,6 +1558,12 @@
       <link>https://wiki.eryajf.net/pages/868c31/</link>
       <description>如要阅读全文，点击标题跳转。 学习周刊-总第259期  | gomi | Claude-Cowork | alaye-app | Wegent | DockAnchor | mango-desk | typora-theme-phycat | office-website</description>
       <pubDate>Thu, 16 Apr 2026 22:29:13 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第260期-2026年第17周</title>
+      <link>https://wiki.eryajf.net/pages/907f99/</link>
+      <description>如要阅读全文，点击标题跳转。 学习周刊-总第260期  | kite-desktop | zerobrew | dnet | voicekey | pdfcraft | explain-error-plugin | ezbookkeeping | server-survival | Droppy | ThinkFlowAI | FlashSpace | Orbit | pigsty | pvesphere | talkcody</description>
+      <pubDate>Fri, 24 Apr 2026 15:52:12 +0800</pubDate>
     </item>
   </channel>
 </rss>
