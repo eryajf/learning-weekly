@@ -4,7 +4,7 @@
     <link>https://wiki.eryajf.net/learning-weekly/</link>
     <description>这里记录我每周工作学习过程中遇到学到的优秀开源项目，优秀文章，以及优秀博客。有很多优秀的内容，都值得被铭记，值得被分享，值得被更多人学习，周刊想通过这里每周的记录分享，一方面强化自己对优秀内容的认识与学习，另一方面能够把优质内容统一汇总，以飨大众。&#xA;&#xA;&#x9;&#x9;周刊的内容会以运维技术和 Golang 为主，以及 GitHub 上优秀项目或经验。已经经过一次筛选过滤的内容，质量不会太差，在你空闲无事的时候，可以过来随便看看，必能有所收益。&#xA;&#xA;&#x9;&#x9;周刊维护在：https://github.com/eryajf/learning-weekly 欢迎投稿，推荐或自荐项目 /文章 /博客，请提交 issue 。</description>
     <managingEditor>eryajf@163.com (eryajf)</managingEditor>
-    <pubDate>Thu, 17 Sep 2026 22:50:53 +0800</pubDate>
+    <pubDate>Sun, 04 Oct 2026 11:44:22 +0800</pubDate>
     <item>
       <title>学习周刊-总第1期-2021年第18周</title>
       <link>https://wiki.eryajf.net/pages/11c668/</link>
@@ -1690,6 +1690,30 @@
       <link>https://wiki.eryajf.net/pages/f4b3b4/</link>
       <description>如要阅读全文，点击标题跳转。 学习周刊-总第281期  | netsgo | polywise | drawio-skill | CLICD | Swifka | glitter-idea-repo | MacSai</description>
       <pubDate>Thu, 17 Sep 2026 22:49:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第282期-2026年第39周</title>
+      <link>https://wiki.eryajf.net/pages/fe2bb1/</link>
+      <description>如要阅读全文，点击标题跳转。 学习周刊-总第282期 ｜ Liftoff ｜ canary ｜ horseMD ｜ wayland ｜ YanAI ｜ Git-Identity-Manager ｜ scratch ｜ synara</description>
+      <pubDate>Thu, 24 Sep 2026 11:35:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第283期-2026年第40周</title>
+      <link>https://wiki.eryajf.net/pages/be530a/</link>
+      <description>如要阅读全文，点击标题跳转。 学习周刊-总第283期 ｜ MarkdownReader ｜ cc-bar ｜ financial-management ｜ desktop-cc-gui ｜ Annado ｜ Message-Push-Nest ｜ archify</description>
+      <pubDate>Thu, 01 Oct 2026 11:36:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第284期-2026年第41周</title>
+      <link>https://wiki.eryajf.net/pages/fdfe24/</link>
+      <description>如要阅读全文，点击标题跳转。 学习周刊-总第284期 ｜ manifest ｜ iContainer ｜ open-note ｜ dbops ｜ skill-zoo ｜ CoPet ｜ renewlet</description>
+      <pubDate>Thu, 08 Oct 2026 11:37:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>学习周刊-总第285期-2026年第42周</title>
+      <link>https://wiki.eryajf.net/pages/6be37e/</link>
+      <description>如要阅读全文，点击标题跳转。 学习周刊-总第285期 ｜ YCode ｜ MacTools ｜ LockIME ｜ OnePagent ｜ maple ｜ vorssaint-utils ｜ trinity</description>
+      <pubDate>Thu, 15 Oct 2026 11:38:56 +0800</pubDate>
     </item>
   </channel>
 </rss>
